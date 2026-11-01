@@ -1,0 +1,2345 @@
+================================================================================
+RESUMEN GENERAL DE RADIOGRAFÍA - CHIRCA / CERTIFICADOS
+================================================================================
+Total de archivos escaneados: 2177
+
+DESGLOSE POR ESTADO:
+  - TEXTO_NATIVO: 1739
+  - IMAGEN_ESCANEADO: 246
+  - DOCX_TEXTO: 126
+  - DOC_ANTIGUO_TEXTO: 25
+  - XLSX_DATOS: 14
+  - OTRO_.agent: 11
+  - ERROR_PDF: 6
+  - MIXTO_TEXTO_E_IMAGEN: 2
+  - ERROR_DOCX: 2
+  - OTRO_.jpg: 2
+  - OTRO_.msg: 1
+  - OTRO_.crysis: 1
+  - OTRO_.odg: 1
+  - DOCX_IMAGEN_O_VACIO: 1
+
+ARCHIVOS ESPECIALES / EXTENSIONES NO ESTÁNDAR:
+  * .msg (1363.5 KB) | Arcillas/Sepiol/CERTIFICADOS DE CALIDAD/RV Puremin - Confirmación Pedido 2125325 - OC 02021-0000006162.msg
+  * .crysis (18.7 KB) | Biotecnología/Vinexpert/CERTIFICADO DE CALIDAD/LEVADURAS/Thumbs.db.id-80C6EC46.{mailrepa.lotos@aol.com}.CrySiS
+  * .jpg (275.5 KB) | Biotecnología/Vinexpert/CERTIFICADO DE CALIDAD/OBSOLETOS/ICTIOCOLA/Biofine 1.jpg
+  * .jpg (213.7 KB) | Biotecnología/Vinexpert/CERTIFICADO DE CALIDAD/OBSOLETOS/ICTIOCOLA/Biofine 2.jpg
+  * .odg (65.5 KB) | Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/Certificados de calidad editables/Cert Calidad OVC PLUS 6050920.odg
+  * .agent (17.8 KB) | Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/OVC PLUS C/Agente de OVC PLUS C.agent
+  * .agent (23.8 KB) | FILTRACIÓN/PRECOAT 12 H/Agente de tendencias PRECOAT 12 H.agent
+  * .agent (23.8 KB) | FILTRACIÓN/PRECOAT 12F/Agente de tendencias PRECOAT 12F.agent
+  * .agent (23.8 KB) | FILTRACIÓN/PRECOAT 14 H/Agente de tendencias PRECOAT 14 H.agent
+  * .agent (23.7 KB) | FILTRACIÓN/PRECOAT 14C/Agente de PRECOAT 14C.agent
+  * .agent (23.8 KB) | FILTRACIÓN/PRECOAT 15 H/Agente de Tendencias PRECOAT 15 H.agent
+  * .agent (19.5 KB) | FILTRACIÓN/PRECOAT 15F/Agente de tendencia PRECOAT 15F.agent
+  * .agent (23.8 KB) | FILTRACIÓN/PRECOAT 4F/Agente de PRECOAT 4F.agent
+  * .agent (23.8 KB) | FILTRACIÓN/PRECOAT DWG/Agente de tendencias PRECOAT DWG.agent
+  * .agent (23.8 KB) | FILTRACIÓN/PRECOAT DWP3/Agente de PRECOAT DWP3.agent
+  * .agent (23.8 KB) | FILTRACIÓN/PRECOAT QSB/Agente de PRECOAT QSB.agent
+
+================================================================================
+ÁRBOL COMPLETO DE DIRECTORIOS Y ARCHIVOS
+================================================================================
+Certificados/
+├── 📁 Arcillas/ (0 archivos)
+│   ├── 📁 Puremin/ (0 archivos)
+│   │   ├── 📁 CERTIFICADO DE CALIDAD/ (243 archivos)
+│   │   │   ├── 📄 25060423.pdf
+│   │   │   ├── 📄 25060523.pdf
+│   │   │   ├── 📄 25060612.pdf
+│   │   │   ├── 📄 COFA 25112213 de PUREMIN SAPI DE CV...pdf
+│   │   │   ├── 📄 COFA 25112713 de PUREMIN SAPI DE CV...pdf
+│   │   │   ├── 📄 COFA 25112713 de PUREMIN SAPI DE CV..pdf
+│   │   │   ├── 📄 COFA 25112723 de PUREMIN SAPI DE CV...pdf
+│   │   │   ├── 📄 COFA 26071323.pdf
+│   │   │   ├── 📄 COFA 26071501.pdf
+│   │   │   ├── 📄 COFA 3450480 de PUREMIN SAPI DE CV.. LOTE 251115.pdf
+│   │   │   ├── 📄 COFA 3450481 de PUREMIN SAPI DE CV.. LOTE 251115.pdf
+│   │   │   ├── 📄 COFA 3471734 de Puremin Lote 26040103.pdf
+│   │   │   ├── 📄 COFA 3484448 de Puremin SAPI de CV.pdf
+│   │   │   ├── 📄 COFA 3484450 de Puremin SAPI de CV.pdf
+│   │   │   ├── 📄 COFA 3484788 de Puremin SAPI de CV.pdf
+│   │   │   ├── 📄 Cert.Calidad 24032724 PUREMIN.pdf
+│   │   │   ├── 📄 Cert.Calidad 24040225 PUREMIN.pdf
+│   │   │   ├── 📄 Cert.Calidad 25110413 PUREMIN (2).pdf
+│   │   │   ├── 📄 Cert.Calidad 25110413 PUREMIN.pdf
+│   │   │   ├── 📄 Cert.Calidad 25110813  PUREMIN (2).pdf
+│   │   │   ├── 📄 Cert.Calidad 26052923 PUREMIN-bolsa.pdf
+│   │   │   ├── 📄 Cert.Calidad 26080123  PUREMIN.pdf
+│   │   │   ├── 📄 Certificado de inspección de calidad Pedido 2112821.pdf
+│   │   │   ├── 📄 Certificado de inspección de calidad Pedido 2112826.PDF
+│   │   │   ├── 📄 Crt. Calidad 24012924 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24012924 (2).pdf
+│   │   │   ├── 📄 Crt. Calidad 24012924.pdf
+│   │   │   ├── 📄 Crt. Calidad 24013045 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24013045.pdf
+│   │   │   ├── 📄 Crt. Calidad 24013104.pdf
+│   │   │   ├── 📄 Crt. Calidad 24030425 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24030425 (2).pdf
+│   │   │   ├── 📄 Crt. Calidad 24030425 (3).pdf
+│   │   │   ├── 📄 Crt. Calidad 24030425.pdf
+│   │   │   ├── 📄 Crt. Calidad 24031124 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24031124.pdf
+│   │   │   ├── 📄 Crt. Calidad 24031224 (2).pdf
+│   │   │   ├── 📄 Crt. Calidad 24031224.pdf
+│   │   │   ├── 📄 Crt. Calidad 24031945 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24031945.pdf
+│   │   │   ├── 📄 Crt. Calidad 24032045 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24032045.pdf
+│   │   │   ├── 📄 Crt. Calidad 24032724 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24032724.pdf
+│   │   │   ├── 📄 Crt. Calidad 24040225 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24040225.pdf
+│   │   │   ├── 📄 Crt. Calidad 24051323 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24051323.pdf
+│   │   │   ├── 📄 Crt. Calidad 24052425 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24052425.pdf
+│   │   │   ├── 📄 Crt. Calidad 24102423 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24102423.pdf
+│   │   │   ├── 📄 Crt. Calidad 24102523 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24102523.pdf
+│   │   │   ├── 📄 Crt. Calidad 24102923 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24102923.pdf
+│   │   │   ├── 📄 Crt. Calidad 24110123 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24110123.pdf
+│   │   │   ├── 📄 Crt. Calidad 24110423 (1).pdf
+│   │   │   ├── 📄 Crt. Calidad 24110423.pdf
+│   │   │   ├── 📄 Crt.Calidad 2092016.pdf
+│   │   │   ├── 📄 Crt.Calidad 21031901.PDF
+│   │   │   ├── 📄 Crt.Calidad 21040805.pdf
+│   │   │   ├── 📄 Crt.Calidad 21052516.pdf
+│   │   │   ├── 📄 Crt.Calidad 21120716.pdf
+│   │   │   ├── 📄 Crt.Calidad 2121051834.pdf
+│   │   │   ├── 📄 Crt.Calidad 2121062901.pdf
+│   │   │   ├── 📄 Crt.Calidad 22011916.pdf
+│   │   │   ├── 📄 Crt.Calidad 22012216 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22012216.pdf
+│   │   │   ├── 📄 Crt.Calidad 22031101.pdf
+│   │   │   ├── 📄 Crt.Calidad 22031656 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22031656.pdf
+│   │   │   ├── 📄 Crt.Calidad 22032416.pdf
+│   │   │   ├── 📄 Crt.Calidad 22040616 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22040616 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 22040616.pdf
+│   │   │   ├── 📄 Crt.Calidad 22051905 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 22051905.pdf
+│   │   │   ├── 📄 Crt.Calidad 22052515 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 22052515.pdf
+│   │   │   ├── 📄 Crt.Calidad 22062816 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22062816.pdf
+│   │   │   ├── 📄 Crt.Calidad 22070226 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22070226.pdf
+│   │   │   ├── 📄 Crt.Calidad 22081226 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22081226.pdf
+│   │   │   ├── 📄 Crt.Calidad 22081312 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22081312.pdf
+│   │   │   ├── 📄 Crt.Calidad 22082416 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22082416.pdf
+│   │   │   ├── 📄 Crt.Calidad 22082616 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22082616.pdf
+│   │   │   ├── 📄 Crt.Calidad 22091316 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22091316 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 22091316 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 22091316.pdf
+│   │   │   ├── 📄 Crt.Calidad 22100556 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22100556.pdf
+│   │   │   ├── 📄 Crt.Calidad 22110116 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22110116.pdf
+│   │   │   ├── 📄 Crt.Calidad 22121356 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 22121356 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 22121356 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 22121356.pdf
+│   │   │   ├── 📄 Crt.Calidad 23011156 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23011156 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 23011156 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 23011156.pdf
+│   │   │   ├── 📄 Crt.Calidad 23020715 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23020715 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 23020715 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 23020715.pdf
+│   │   │   ├── 📄 Crt.Calidad 23031602.pdf
+│   │   │   ├── 📄 Crt.Calidad 23031604 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23031604 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 23031604.pdf
+│   │   │   ├── 📄 Crt.Calidad 23031646.pdf
+│   │   │   ├── 📄 Crt.Calidad 23031746 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23031746.pdf
+│   │   │   ├── 📄 Crt.Calidad 23041824 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23041824 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 23041824 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 23041824.pdf
+│   │   │   ├── 📄 Crt.Calidad 23041924 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23041924.pdf
+│   │   │   ├── 📄 Crt.Calidad 23050224 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23050224 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 23050224 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 23050224 (4).pdf
+│   │   │   ├── 📄 Crt.Calidad 23050224 (5).pdf
+│   │   │   ├── 📄 Crt.Calidad 23050224.pdf
+│   │   │   ├── 📄 Crt.Calidad 23060345 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23060345 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 23060345 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 23060345.pdf
+│   │   │   ├── 📄 Crt.Calidad 23060645 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23060645 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 23060645 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 23060645.pdf
+│   │   │   ├── 📄 Crt.Calidad 23060756 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23060756 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 23060756 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 23060756.pdf
+│   │   │   ├── 📄 Crt.Calidad 23071425 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23071425 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 23071425 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 23071425.pdf
+│   │   │   ├── 📄 Crt.Calidad 23071525.pdf
+│   │   │   ├── 📄 Crt.Calidad 23071726.pdf
+│   │   │   ├── 📄 Crt.Calidad 23071826 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23071826.pdf
+│   │   │   ├── 📄 Crt.Calidad 23071856 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 23071856.pdf
+│   │   │   ├── 📄 Crt.Calidad 24070423.pdf
+│   │   │   ├── 📄 Crt.Calidad 24070625 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 24070625.pdf
+│   │   │   ├── 📄 Crt.Calidad 24080935 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 24080935.pdf
+│   │   │   ├── 📄 Crt.Calidad 24081225 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 24081225.pdf
+│   │   │   ├── 📄 Crt.Calidad 24120312 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 24120312.pdf
+│   │   │   ├── 📄 Crt.Calidad 24120412 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 24120412.pdf
+│   │   │   ├── 📄 Crt.Calidad 24120612 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 24120612.pdf
+│   │   │   ├── 📄 Crt.Calidad 25010212 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 25010212 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 25010212 (3).pdf
+│   │   │   ├── 📄 Crt.Calidad 25010212 (4).pdf
+│   │   │   ├── 📄 Crt.Calidad 25010212.pdf
+│   │   │   ├── 📄 Crt.Calidad 25010612 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 25010612 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 25010612 - 25010712.pdf
+│   │   │   ├── 📄 Crt.Calidad 25010612.pdf
+│   │   │   ├── 📄 Crt.Calidad 25052323 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 25052323.pdf
+│   │   │   ├── 📄 Crt.Calidad 25052423 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 25052423.pdf
+│   │   │   ├── 📄 Crt.Calidad 25060423 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 25060423 (2).pdf
+│   │   │   ├── 📄 Crt.Calidad 25060423.pdf
+│   │   │   ├── 📄 Crt.Calidad 25060523.pdf
+│   │   │   ├── 📄 Crt.Calidad 25060612 (1).pdf
+│   │   │   ├── 📄 Crt.Calidad 25060612.pdf
+│   │   │   ├── 📄 Crt.Calidad 26020512 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3071425 (4).pdf
+│   │   │   ├── 📄 Crt.Calidad 3071425 (5).pdf
+│   │   │   ├── 📄 Crt.Calidad 3268554000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3268554000020 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3268555000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3288844000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3288847 000010 1-2 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3288847000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3288847000020 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3293464000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3293468000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3293469000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3295734000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3295735000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3295736000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3295737000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3301232000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3301233000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3301376000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3301377000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3303796 000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3303797 000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3303798 000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3303799 000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348213 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348214 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348215 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348216 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348217 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348218 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348219 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348220 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348221 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348222 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348223 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3348224 00010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.calidad 25083023.pdf
+│   │   │   ├── 📄 CrtCalidad 24070525 (1).pdf
+│   │   │   ├── 📄 CrtCalidad 24070525.pdf
+│   │   │   ├── 📄 CrtCalidad 24090525 (1).pdf
+│   │   │   ├── 📄 CrtCalidad 24090525.pdf
+│   │   │   ├── 📄 CrtCalidad 24091035 (1).pdf
+│   │   │   ├── 📄 CrtCalidad 24091035.pdf
+│   │   │   ├── 📄 CrtCalidad 24100223 (1).pdf
+│   │   │   ├── 📄 CrtCalidad 24100223.pdf
+│   │   │   ├── 📄 CrtCalidad 24100912 (1).pdf
+│   │   │   ├── 📄 CrtCalidad 24100912.pdf
+│   │   │   ├── 📄 CrtCalidad 24101112 (1).pdf
+│   │   │   ├── 📄 CrtCalidad 24101112.pdf
+│   │   │   ├── 📄 CrtCalidad 25081123PUREMIN SAPI.pdf
+│   │   │   ├── 📄 CrtCalidad 26052013.pdf
+│   │   │   ├── 📄 CrtCalidad 26052112.pdf
+│   │   │   ├── 📄 CrtCalidad 26060813 -.pdf
+│   │   │   ├── 📄 CrtCalidad 26060813.pdf
+│   │   │   ├── 📄 CrtCalidad 26061012 -.pdf
+│   │   │   ├── 📄 CrtCalidad 26061012.pdf
+│   │   │   ├── 📁 CERTIFICADOS DE CALIDAD/ (103 archivos)
+│   │   │   │   ├── 📄 COFA 26061623 de Puremin SAPI de_CV.pdf
+│   │   │   │   ├── 📄 COFA 26061623 de Puremin x25 kg.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 2092016.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 21031901.PDF
+│   │   │   │   ├── 📄 Crt.Calidad 21040805.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 21052516.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 21120716.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 2121051834.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 2121062901.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22011916.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22012216 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22012216.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22031101.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22031656 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22031656.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22032416.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22040616 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22040616 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22040616.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22051905 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22051905.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22052515 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22052515.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22062816 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22062816.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22070226 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22070226.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22081226 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22081226.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22081312 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22081312.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22082416 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22082416.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22082616 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22082616.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22091316 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22091316 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22091316 (3).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22091316.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22100556 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22100556.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22110116 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22110116.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22121356 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22121356 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22121356 (3).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 22121356.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23011156 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23011156 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23011156 (3).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23011156.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23020715 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23020715 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23020715 (3).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23020715.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23031602.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23031604 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23031604 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23031604.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23031646.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23031746 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23031746.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23041824 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23041824 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23041824 (3).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23041824.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23041924 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23041924.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23050224 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23050224 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23050224 (3).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23050224 (4).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23050224 (5).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23050224.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060345 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060345 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060345 (3).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060345.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060645 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060645 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060645 (3).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060645.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060756 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060756 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060756 (3).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23060756.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23071425 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23071425 (2).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23071425 (3).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23071425.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23071525.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23071726.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23071826 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23071826.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23071856 (1).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 23071856.pdf
+│   │   │   │   ├── 📄 Crt.Calidad 3071425 (4).pdf
+│   │   │   │   ├── 📄 Crt.Calidad 3071425 (5).pdf
+│   │   │   │   ├── 📄 CrtCalidad 25050612PUREMIN SAPI.pdf
+│   │   │   │   ├── 📄 CrtCalidad 25050723PUREMIN SAPI.pdf
+│   │   │   │   ├── 📄 CrtCalidad 25052323PUREMIN SAPI.pdf
+│   │   │   │   ├── 📄 CrtCalidad 25052423PUREMIN SAPI.pdf
+│   │   │   │   ├── 📄 CrtCalidad 26052013.pdf
+│   │   │   │   ├── 📁 CERTIFICADOS DE CALIDAD/ (132 archivos)
+│   │   │   │   │   ├── 📄 Crt. Calidad 24012924 (1).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24012924 (2).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24012924.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24013045 (1).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24013045.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24013104.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24030425 (1).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24030425 (2).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24030425 (3).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24030425.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24031124 (1).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24031124.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24031224 (2).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24031224.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24031945 (1).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24031945.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24032045 (1).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24032045.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24032724 (1).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24032724.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24040225 (1).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24040225.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24051323 (1).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24051323.pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24052425 (1).pdf
+│   │   │   │   │   ├── 📄 Crt. Calidad 24052425.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 2092016.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 21031901.PDF
+│   │   │   │   │   ├── 📄 Crt.Calidad 21040805.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 21052516.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 21120716.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 2121051834.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 2121062901.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22011916.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22012216 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22012216.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22031101.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22031656 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22031656.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22032416.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22040616 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22040616 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22040616.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22051905 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22051905.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22052515 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22052515.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22062816 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22062816.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22070226 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22070226.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22081226 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22081226.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22081312 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22081312.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22082416 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22082416.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22082616 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22082616.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22091316 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22091316 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22091316 (3).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22091316.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22100556 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22100556.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22110116 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22110116.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22121356 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22121356 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22121356 (3).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 22121356.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23011156 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23011156 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23011156 (3).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23011156.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23020715 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23020715 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23020715 (3).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23020715.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23031602.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23031604 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23031604 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23031604.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23031646.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23031746 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23031746.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23041824 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23041824 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23041824 (3).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23041824.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23041924 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23041924.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23050224 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23050224 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23050224 (3).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23050224 (4).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23050224 (5).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23050224.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060345 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060345 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060345 (3).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060345.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060645 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060645 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060645 (3).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060645.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060756 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060756 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060756 (3).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23060756.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23071425 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23071425 (2).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23071425 (3).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23071425.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23071525.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23071726.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23071826 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23071826.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23071856 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 23071856.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 24070625 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 24070625.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 24080935 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 24080935.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 24081225 (1).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 24081225.pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 3071425 (4).pdf
+│   │   │   │   │   ├── 📄 Crt.Calidad 3071425 (5).pdf
+│   │   │   │   │   ├── 📄 CrtCalidad 24070525 (1).pdf
+│   │   │   │   │   ├── 📄 CrtCalidad 24070525.pdf
+│   │   │   │   │   ├── 📄 CrtCalidad 25052323PUREMIN SAPI.pdf
+│   │   │   │   │   └── 📄 CrtCalidad 25052423PUREMIN SAPI.pdf
+│   ├── 📁 Sepiol/ (0 archivos)
+│   │   ├── 📁 CERTIFICADOS DE CALIDAD/ (13 archivos)
+│   │   │   ├── 📄 COA 3457656 2026W4.PDF
+│   │   │   ├── 📄 Crt.Calidad 3293464000010 - lote 22031656.pdf
+│   │   │   ├── 📄 Crt.Calidad 3293464000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3293468000010 - LOTE 22031656.pdf
+│   │   │   ├── 📄 Crt.Calidad 3293468000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3293469000010 - 22031101.pdf
+│   │   │   ├── 📄 Crt.Calidad 3293469000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3295734000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3295735000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3295736000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   ├── 📄 Crt.Calidad 3295737000010 de PUREMIN, SAPI DE CV 22040616.pdf
+│   │   │   ├── 📄 Crt.Calidad 3295737000010 de PUREMIN, SAPI DE CV.pdf
+│   │   │   └── 📄 RV Puremin - Confirmación Pedido 2125325 - OC 02021-0000006162.msg
+├── 📁 Biotecnología/ (0 archivos)
+│   ├── 📁 Fermentis/ (0 archivos)
+│   │   ├── 📁 CERTIFICADOS DE CALIDAD Y DE EXTENSIÓN/ (1 archivos)
+│   │   │   ├── 📄 CÓDIGO DE ARTICULO saf.xlsx
+│   │   │   ├── 📁 BC S 103/ (18 archivos)
+│   │   │   │   ├── 📄 BC S 103 LOTE 1400405.pdf
+│   │   │   │   ├── 📄 BC S 103 LOTE 1500494.pdf
+│   │   │   │   ├── 📄 SAFOENO BC S103 – Lot  1400405 .pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot  2200545.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot  2300089.docx
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot  2300089.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot  AJ24VI0363.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot 1400405.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot 1900582.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot 2000269.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot 2000550.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot 2100482.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot 2100499.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot 2100952 (290kg).pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot 2100952.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot 2101263.pdf
+│   │   │   │   ├── 📄 SafOeno BC S103 Lot #1500494.pdf
+│   │   │   │   └── 📄 SafOeno BC S103 Lot 2100652.pdf
+│   │   │   ├── 📁 Base datos Yy editables certificados/ (20 archivos)
+│   │   │   │   ├── 📄 Base datos Certificados Derivados.xlsx
+│   │   │   │   ├── 📄 Base datos Certificados Springferm Equilibre.xlsx
+│   │   │   │   ├── 📄 Base datos levaduras enológicas Cert Anal.xlsx
+│   │   │   │   ├── 📄 Cert Anal Der Levaduras Sprinferm LOTE 250165.docx
+│   │   │   │   ├── 📄 Cert Anal Der Levaduras Template con kg.docx
+│   │   │   │   ├── 📄 Cert Anal Levaduras Template con kg.docx
+│   │   │   │   ├── 📄 Cert Anal Levaduras Template.docx
+│   │   │   │   ├── 📄 Cert Anal Levaduras VR 44 LOTE 1500741.docx
+│   │   │   │   ├── 📄 Cert Anal SpringFerm Equilibre Template.docx
+│   │   │   │   ├── 📄 SafOeno  EDITABLE VENCIDOS.docx
+│   │   │   │   ├── 📄 SafOeno BC S-103 Lot  2200545.docx
+│   │   │   │   ├── 📄 SafOeno SH12 Lot 2200618.docx
+│   │   │   │   ├── 📄 SpringFerm Equilibre LOTE N120516A.docx
+│   │   │   │   ├── 📄 Springarom LOTE 250166.docx
+│   │   │   │   ├── 📄 Springcell Color  LOTE 250161.docx
+│   │   │   │   ├── 📄 Springcell Color  LOTE 250162.docx
+│   │   │   │   ├── 📄 Springcell Manno LOTE 250164.docx
+│   │   │   │   ├── 📄 Springferm Xtrem LOTE 250021.docx
+│   │   │   │   ├── 📄 UCLM S377 LOTE 1500482.docx
+│   │   │   │   └── 📄 VR 44 LOTE 1500741.docx
+│   │   │   ├── 📁 CERTIFICADOS DE EXTENSION/ (10 archivos)
+│   │   │   │   ├── 📄 CERTIFICADOS DE EXTENSION EDITABLE.docx
+│   │   │   │   ├── 📄 CERTIFICADOS DE EXTENSION EDITABLE.pdf
+│   │   │   │   ├── 📄 CERTIFICADOS DE EXTENSION LOTE 1800535 SAF 107.pdf
+│   │   │   │   ├── 📄 CERTIFICATE OF SHELF LIFE EXTENSION.pdf
+│   │   │   │   ├── 📄 Extension Letter HD A54, Lot 220703.pdf
+│   │   │   │   ├── 📄 Extension Letter UCLM S377, Lot 2200580 .pdf
+│   │   │   │   ├── 📄 LOTE 1600436 SAF NDA 21 EXTENSION.pdf
+│   │   │   │   ├── 📄 Levadura enológica tipo PDM – Lot 15-104, 00-9S.pdf
+│   │   │   │   ├── 📄 SafOeno BC S-103 20 x 500 gr  Lot 1400405.pdf
+│   │   │   │   └── 📄 SafOeno UCLM S-377, 20 x 500 gr – Lot 1400429.pdf
+│   │   │   ├── 📁 CK S 102/ (19 archivos)
+│   │   │   │   ├── 📄 CK S 102 LOTE 1500480.pdf
+│   │   │   │   ├── 📄 COA SafOeno CK S102_2300730.pdf
+│   │   │   │   ├── 📄 Levadura enológica SafOeno CK S 102 20x500 gr.docx
+│   │   │   │   ├── 📄 SafOeno CK S 102 20x500 gr 2201233.pdf
+│   │   │   │   ├── 📄 SafOeno CK S 102 20x500 gr 2300518.pdf
+│   │   │   │   ├── 📄 SafOeno CK S-102 Lot 1800545.pdf
+│   │   │   │   ├── 📄 SafOeno CK S-102 Lot 2000197.pdf
+│   │   │   │   ├── 📄 SafOeno CK S-102 Lot 2000236 (320).pdf
+│   │   │   │   ├── 📄 SafOeno CK S-102 Lot 2000236.pdf
+│   │   │   │   ├── 📄 SafOeno CK S-102 Lot 2000506 compra conjunta.pdf
+│   │   │   │   ├── 📄 SafOeno CK S-102 Lot 2000506.pdf
+│   │   │   │   ├── 📄 SafOeno CK S-102 Lot 2000506_2.pdf
+│   │   │   │   ├── 📄 SafOeno CK S-102 Lot 2100781 (410).pdf
+│   │   │   │   ├── 📄 SafOeno CK S-102 Lot 2100781.pdf
+│   │   │   │   ├── 📄 SafOeno CK S-102 Lot 2101244.pdf
+│   │   │   │   ├── 📄 SafOeno CK S102 Lot 1900620.pdf
+│   │   │   │   ├── 📄 SafOeno CK S102 Lot 2000506.pdf
+│   │   │   │   ├── 📄 SafOeno CK S102 x 10 kg Lot 2000236.pdf
+│   │   │   │   └── 📄 SafOeno CK S102 x 10 kg Lot 2100781.pdf
+│   │   │   ├── 📁 COAS VARIOS PRODUCTOS EN UNO/ (2 archivos)
+│   │   │   │   ├── 📄 AC25F01190 240609 240609 250682.pdf
+│   │   │   │   └── 📄 AJ24VI0539 OENOLOGICAL YEAST 807.pdf
+│   │   │   ├── 📁 CS22/ (4 archivos)
+│   │   │   │   ├── 📄 SafOeno  SC22  Lot 1600478 (2).pdf
+│   │   │   │   ├── 📄 SafOeno  SC22  Lot 1600478.pdf
+│   │   │   │   ├── 📄 SafOeno  SC22  Lot1900626.pdf
+│   │   │   │   └── 📄 SafOeno CK S-102 Lot 1800545.pdf
+│   │   │   ├── 📁 GV S107/ (3 archivos)
+│   │   │   │   ├── 📄 GV S107 LOT 1800535.pdf
+│   │   │   │   ├── 📄 SafOeno GV S107 Lot 1800535 (2021).pdf
+│   │   │   │   └── 📄 SafOeno GV S107 Lot 1800535.pdf
+│   │   │   ├── 📁 HD S 135/ (11 archivos)
+│   │   │   │   ├── 📄 Cert Anal Levaduras Safoeno™ HD S135.docx
+│   │   │   │   ├── 📄 Cert Anal Levaduras Safoeno™ HD S135.pdf
+│   │   │   │   ├── 📄 SafOeno  HD S135  Lot 2100747.pdf
+│   │   │   │   ├── 📄 SafOeno  HD S135  Lot 2101326.docx
+│   │   │   │   ├── 📄 SafOeno  HD S135  Lot 2101326.pdf
+│   │   │   │   ├── 📄 SafOeno HD S135 Lot  1700106 extension 03-2022.pdf
+│   │   │   │   ├── 📄 SafOeno HD S135 Lot  1700106.pdf
+│   │   │   │   ├── 📄 SafOeno HD S135 Lot 1500289.pdf
+│   │   │   │   ├── 📄 SafOeno HD S135 Lot 2000239.pdf
+│   │   │   │   ├── 📄 SafOeno HD S135 Lot 2100747.pdf
+│   │   │   │   └── 📄 SafOeno HD S135 Lot 2100747_2.pdf
+│   │   │   ├── 📁 HD T18/ (5 archivos)
+│   │   │   │   ├── 📄 SafOeno HD T18 Lot 1800361.pdf
+│   │   │   │   ├── 📄 SafOeno HD T18 Lot 2100634.pdf
+│   │   │   │   ├── 📄 SafOeno HD T18 Lot 2200526.docx
+│   │   │   │   ├── 📄 SafOeno HD T18 Lot 2200526.pdf
+│   │   │   │   └── 📄 SafOeno PR106 Lot 2100744 (1).pdf
+│   │   │   ├── 📁 LYNSIDE NUTRI OPTIMUM YEASTADE/ (3 archivos)
+│   │   │   │   ├── 📄 LYNSIDE A051223B_COA_64816044_1.PDF
+│   │   │   │   ├── 📄 LYNSIDE C012624A_COA_64816058_1.PDF
+│   │   │   │   └── 📄 LYNSIDE C111222A_COA_SAMPLE_091225.pdf
+│   │   │   ├── 📁 NDA 21/ (6 archivos)
+│   │   │   │   ├── 📄 NDA 21 LOTE 1600436 (2).pdf
+│   │   │   │   ├── 📄 NDA 21 LOTE 1600436.docx
+│   │   │   │   ├── 📄 NDA 21 LOTE 1600436.pdf
+│   │   │   │   ├── 📄 SafOeno NDA 21 Lot 1500493.pdf
+│   │   │   │   ├── 📄 SafOeno NDA 21 Lot 1700250.pdf
+│   │   │   │   └── 📄 SafOeno NDA 21 Lot 2100796.pdf
+│   │   │   ├── 📁 SAF A54/ (7 archivos)
+│   │   │   │   ├── 📄 Extension Letter HD A54, Lot 220703.pdf
+│   │   │   │   ├── 📄 SafOeno  HD A54  Lot 2100726.docx
+│   │   │   │   ├── 📄 SafOeno  HD A54  Lot 2100726.pdf
+│   │   │   │   ├── 📄 SafOeno A54 Lot 220703 (1).pdf
+│   │   │   │   ├── 📄 SafOeno A54 Lot 220703.pdf
+│   │   │   │   ├── 📄 SafOeno HD A54 Lot 1800353.pdf
+│   │   │   │   └── 📄 SafOeno HD A54 Lot 2100726.pdf
+│   │   │   ├── 📁 SAF EF 85/ (4 archivos)
+│   │   │   │   ├── 📄 Extension Letter EF 85, lot 2200702 (1).pdf
+│   │   │   │   ├── 📄 F 85, lot 2200702.pdf
+│   │   │   │   ├── 📄 SafOeno EF 85.docx
+│   │   │   │   └── 📄 Springferm.docx
+│   │   │   ├── 📁 SAF GV S 107/ (2 archivos)
+│   │   │   │   ├── 📄 Cert Anal Levaduras GV S 107.docx
+│   │   │   │   └── 📄 Cert Anal Levaduras GV S 107.pdf
+│   │   │   ├── 📁 SAF HD S62/ (9 archivos)
+│   │   │   │   ├── 📄 Cert Anal Levaduras Safoeno™ HD S62.docx
+│   │   │   │   ├── 📄 Cert Anal Levaduras Safoeno™ HD S62.pdf
+│   │   │   │   ├── 📄 SafOeno HD S62 Lot 1800532.pdf
+│   │   │   │   ├── 📄 SafOeno HD S62 Lot 1900607.pdf
+│   │   │   │   ├── 📄 SafOeno HD S62 Lot 2100671.pdf
+│   │   │   │   ├── 📄 SafOeno HD S62 Lot 2101551.pdf
+│   │   │   │   ├── 📄 SafOeno S62 Lot 2101551.docx
+│   │   │   │   ├── 📄 SafOeno S62 Lot 2101551.pdf
+│   │   │   │   └── 📄 SafOeno S62 Lot 2300466.docx
+│   │   │   ├── 📁 SAF PR 106/ (4 archivos)
+│   │   │   │   ├── 📄 SafOeno  PR 106  Lot 1800226 (1).docx
+│   │   │   │   ├── 📄 SafOeno  PR 106  Lot 1800226.pdf
+│   │   │   │   ├── 📄 SafOeno PR106 Lot 2100744 (1).pdf
+│   │   │   │   └── 📄 SafOeno PR106 Lot 2100744.pdf
+│   │   │   ├── 📁 SAF SH 12/ (6 archivos)
+│   │   │   │   ├── 📄 SafOeno SH 12 Lote 1900382.pdf
+│   │   │   │   ├── 📄 SafOeno SH 12 Lote 1900382_2.pdf
+│   │   │   │   ├── 📄 SafOeno SH12 Lot 2101616.pdf
+│   │   │   │   ├── 📄 SafOeno SH12 Lot 2200618.pdf
+│   │   │   │   ├── 📄 SafOeno SH12 Lot 2300562.pdf
+│   │   │   │   └── 📄 SafOeno SH12.docx
+│   │   │   ├── 📁 SPRINCELL BIO/ (5 archivos)
+│   │   │   │   ├── 📄 Cert Anal Springcell Bio.docx
+│   │   │   │   ├── 📄 SpringCell Bio Lot 27441 revalida.pdf
+│   │   │   │   ├── 📄 SpringCell Bio Lot 27441.pdf
+│   │   │   │   ├── 📄 Springcell Bio  LOTE 260153.pdf
+│   │   │   │   └── 📄 Springcell bio Kpsher.pdf
+│   │   │   ├── 📁 SPRINCELL COLOR/ (6 archivos)
+│   │   │   │   ├── 📄 SpringCell Color Lote 240124.pdf
+│   │   │   │   ├── 📄 SpringCell Color Lote 250161 .pdf
+│   │   │   │   ├── 📄 SpringCell Color Lote 250161_.pdf
+│   │   │   │   ├── 📄 SpringCell Color Lote 280165.pdf
+│   │   │   │   ├── 📄 Springcell Color  LOTE 250161.pdf
+│   │   │   │   └── 📄 Springcell Color  LOTE 250162.pdf
+│   │   │   ├── 📁 SPRINGAROM/ (17 archivos)
+│   │   │   │   ├── 📄 240537172 coc2 250308.pdf
+│   │   │   │   ├── 📄 COA 220722 24090315.pdf
+│   │   │   │   ├── 📄 Extension revalida vida util SpringArom Lot 220722.pdf
+│   │   │   │   ├── 📄 SPRINGAROM 1X25 KG 2305030 Y SPRINGAROM 220586.pdf
+│   │   │   │   ├── 📄 SpringArom  Lote 2405034 (1).pdf
+│   │   │   │   ├── 📄 SpringArom  Lote 69901 (1).pdf
+│   │   │   │   ├── 📄 SpringArom 1 x 10 kg 220586.docx
+│   │   │   │   ├── 📄 SpringArom 1 x 10 kg 220586.pdf
+│   │   │   │   ├── 📄 SpringArom 1 x 10 kg kg Lote 67553.pdf
+│   │   │   │   ├── 📄 SpringArom 10 x 1 kg 69901.docx
+│   │   │   │   ├── 📄 SpringArom 10 x 1 kg 69901.pdf
+│   │   │   │   ├── 📄 SpringArom 10 x 1 kg Lote 57340 .pdf
+│   │   │   │   ├── 📄 SpringArom 10 x 1 kg.docx
+│   │   │   │   ├── 📄 SpringArom Lot #250166.pdf
+│   │   │   │   ├── 📄 SpringArom Lote 280161 20 x 110 kg.pdf
+│   │   │   │   ├── 📄 SpringArom Lote 57340 20 x 500 gr.pdf
+│   │   │   │   └── 📄 Springarom LOTE 250166.pdf
+│   │   │   ├── 📁 SPRINGCELL/ (13 archivos)
+│   │   │   │   ├── 📄 F040820A (60222).pdf
+│   │   │   │   ├── 📄 F040920A (60222).pdf
+│   │   │   │   ├── 📄 F102723B spingcell.PDF
+│   │   │   │   ├── 📄 SPRINGCELL 25 KG BAG F042523A.PDF
+│   │   │   │   ├── 📄 SPRINGCELL F102723B COA_64816092_1.PDF
+│   │   │   │   ├── 📄 SPRINGCELL X 25 KG F012323A.PDF
+│   │   │   │   ├── 📄 SpringCell  20 x 500 gr  Lote 280164.pdf
+│   │   │   │   ├── 📄 SpringCell x 25 kg Lote 110922A (1).pdf
+│   │   │   │   ├── 📄 SpringCell x 25 kg Lote 110922A.pdf
+│   │   │   │   ├── 📄 SpringCell x 25 kg Lote 32063341.pdf
+│   │   │   │   ├── 📄 SpringCell x 25 kg Lote F032218A.pdf
+│   │   │   │   ├── 📄 SpringCell x 25 kg Lote F040820A.docx
+│   │   │   │   └── 📄 SpringCell x 25 kg Lote F040820A.pdf
+│   │   │   ├── 📁 SPRINGCELL COLOR G2/ (13 archivos)
+│   │   │   │   ├── 📄 240612 230653 220739.pdf
+│   │   │   │   ├── 📄 250683.pdf
+│   │   │   │   ├── 📄 SPRINGCELL COLOR G2 230569.pdf
+│   │   │   │   ├── 📄 SpringCell Color G2 LOTE 230569.docx
+│   │   │   │   ├── 📄 SpringCell Color G2 LOTE 230569.pdf
+│   │   │   │   ├── 📄 SpringCell Color G2 Lote 200355 .pdf
+│   │   │   │   ├── 📄 SpringCell Color G2 Lote 200355.pdf
+│   │   │   │   ├── 📄 SpringCell Color G2 Lote 67477 (1).pdf
+│   │   │   │   ├── 📄 SpringCell Color G2 Lote 67477 (600).pdf
+│   │   │   │   ├── 📄 SpringCell Color G2 Lote 67477.pdf
+│   │   │   │   ├── 📄 SpringCell Color G2 Lote36345  - 80 kg.pdf
+│   │   │   │   ├── 📄 SpringCell Color G2 Lote36345  .pdf
+│   │   │   │   └── 📄 Varios COAS 230653 240612 220739 COC3 240038066 part 1 loading 18.11.pdf
+│   │   │   ├── 📁 SPRINGCELL MANNO/ (9 archivos)
+│   │   │   │   ├── 📄 COA 220738 springcell mannoCOC6 240038066 part 1 (2).pdf
+│   │   │   │   ├── 📄 Extension Letter SpringCell Manno Lot 220738.pdf
+│   │   │   │   ├── 📄 SpringCell Manno 20 x 500 g Lote 95473 (1).pdf
+│   │   │   │   ├── 📄 SpringCell Manno 20 x 500 g Lote 95473.pdf
+│   │   │   │   ├── 📄 SpringCell Manno Lot #260152.pdf
+│   │   │   │   ├── 📄 SpringCell Manno Lote 280162.pdf
+│   │   │   │   ├── 📄 Springcell Manno LOTE 1700497.pdf
+│   │   │   │   ├── 📄 Springcell Manno LOTE 250164.pdf
+│   │   │   │   └── 📄 Springcell Manno LOTE 260152.pdf
+│   │   │   ├── 📁 SPRINGFERM/ (20 archivos)
+│   │   │   │   ├── 📄 200804 SpringFerm – Lot 38919 - V1.pdf
+│   │   │   │   ├── 📄 Cert Anal Der Levaduras Sprinferm LOTE 250165.pdf
+│   │   │   │   ├── 📄 SPRINGFERM  AC22F03740.pdf
+│   │   │   │   ├── 📄 SPRINGFERM 220135.pdf
+│   │   │   │   ├── 📄 SPRINGfERM LOTE 001.pdf
+│   │   │   │   ├── 📄 SPRINGfERM LOTE 002.pdf
+│   │   │   │   ├── 📄 Sprinferm LOTE 250165.pdf
+│   │   │   │   ├── 📄 SpringFerm Lote 101600283   x 25 kg.pdf
+│   │   │   │   ├── 📄 SpringFerm Lote 2015003734    x 25 kg.pdf
+│   │   │   │   ├── 📄 Springferm Lote 280163  x 10 kg.pdf
+│   │   │   │   ├── 📄 Springferm Lote 290185  x 10 kg.pdf
+│   │   │   │   ├── 📄 Springferm Lote AC18F03010 x 25 kg.pdf
+│   │   │   │   ├── 📄 Springferm Lote AC19F03180  x 25 kg.pdf
+│   │   │   │   ├── 📄 Springferm lot 240178.pdf
+│   │   │   │   ├── 📄 Springferm x 1 kg Lote 220331.pdf
+│   │   │   │   ├── 📄 Springferm x 1 kg Lote 240178.pdf
+│   │   │   │   ├── 📄 Springferm x 25 kg Lote AC20F01200.pdf
+│   │   │   │   ├── 📄 Springferm x 25 kg Lote AC21F01340.pdf
+│   │   │   │   ├── 📄 Springferm x 25 kg Lote AC21F03300 (950).pdf
+│   │   │   │   └── 📄 Springferm x 25 kg Lote AC21F03300.pdf
+│   │   │   ├── 📁 SPRINGFERM EQUILIBRE/ (13 archivos)
+│   │   │   │   ├── 📄 AUTOADHESIVOS PARSEC.docx
+│   │   │   │   ├── 📄 COA - SpringFerm Equilibre lote N112020A.pdf
+│   │   │   │   ├── 📄 SPRINGFERM  EQUILIBRE LOTE 001.pdf
+│   │   │   │   ├── 📄 SPRINGFERM EQUILIBRE 25 KG N112823A.PDF
+│   │   │   │   ├── 📄 SPRINGFERM EQUILIBRE LOTE 002 -LOTE002.pdf
+│   │   │   │   ├── 📄 SpringFerm Equilibre LOTE N120516A dec 2020.pdf
+│   │   │   │   ├── 📄 SpringFerm Equilibre LOTE N120516A.pdf
+│   │   │   │   ├── 📄 SpringFerm Equilibre LOTE N180516A dec 2021.pdf
+│   │   │   │   ├── 📄 SpringFerm Equilibre– Lot # 120516A dec 2021.pdf
+│   │   │   │   ├── 📄 SpringFerm Equilibre– Lot # 120516A.pdf
+│   │   │   │   ├── 📄 Springferm Equilibre Lote N111319A x 25 kg.pdf
+│   │   │   │   ├── 📄 Springferm Equilibre Lote N111319A x 25 kg_2.pdf
+│   │   │   │   ├── 📄 Springferm equilibre L003.pdf
+│   │   │   │   ├── 📁 vencido/ (0 archivos)
+│   │   │   ├── 📁 SPRINGFERM XTREM/ (18 archivos)
+│   │   │   │   ├── 📄 Springferm XTREM LOTE 230570.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem 68227 68599 230570.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem LOTE 250021.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 200354.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 220587.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 240177 VB.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 240609.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 250165 x 10 kg.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 280160  x 10 kg.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 280160.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 290196 x870 kilos.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 57345.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 64528.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 68227 (130kg).pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 68227.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 68597.pdf
+│   │   │   │   ├── 📄 Springferm Xtrem Lote 68599.pdf
+│   │   │   │   └── 📄 Springferm Xtrem Lote 95468.pdf
+│   │   │   ├── 📁 SPRINGFINER/ (3 archivos)
+│   │   │   │   ├── 📄 250241.pdf
+│   │   │   │   ├── 📄 Cert Anal Finer.docx
+│   │   │   │   └── 📄 Cert Anal Finer.pdf
+│   │   │   ├── 📁 STG S101/ (2 archivos)
+│   │   │   │   ├── 📄 Levadura enológica STG S101 lote 1600468 037 BBE 10.2021.pdf
+│   │   │   │   └── 📄 SafOeno STG S101 LOTE 1600468.pdf
+│   │   │   ├── 📁 Saccharomyces bayanus/ (0 archivos)
+│   │   │   ├── 📁 UCLM S  377/ (11 archivos)
+│   │   │   │   ├── 📄 Extension Letter UCLM S377, Lot 2200580 .pdf
+│   │   │   │   ├── 📄 SafOeno  UCLM S377  Lot 1900627.pdf
+│   │   │   │   ├── 📄 SafOeno 377 Lot.docx
+│   │   │   │   ├── 📄 SafOeno 377 lote 2200580 (2).pdf
+│   │   │   │   ├── 📄 SafOeno 377 lote 2200580.pdf
+│   │   │   │   ├── 📄 SafOeno SafOeno UCLM S377 Lot 1700497.pdf
+│   │   │   │   ├── 📄 SafOeno UCLM 377  Lot #1500482.pdf
+│   │   │   │   ├── 📄 SafOeno UCLM S-377, 20 x 500 gr – Lot 1400429.pdf
+│   │   │   │   ├── 📄 SafOeno UCLM S377 20 X 500 L2109090.pdf
+│   │   │   │   ├── 📄 UCLM S377 LOTE 1500482.pdf
+│   │   │   │   └── 📄 UCLM S377 LOTE 1700497 CERTIFICADO DE EXTENSIÓN.pdf
+│   │   │   ├── 📁 UCLM S325/ (6 archivos)
+│   │   │   │   ├── 📄 Cert Anal Levaduras Safoeno™ UCLM S325.docx
+│   │   │   │   ├── 📄 Cert Anal Levaduras Safoeno™ UCLM S325.pdf
+│   │   │   │   ├── 📄 SafOeno  UCLM S325  Lot 1600479 (2021).pdf
+│   │   │   │   ├── 📄 SafOeno  UCLM S325  Lot 1600479_.pdf
+│   │   │   │   ├── 📄 SafOeno  UCLM S325  Lot 1700106 (2021).pdf
+│   │   │   │   └── 📄 SafOeno  UCLM S325  Lot 1700106 .pdf
+│   │   │   ├── 📁 VINILIQUID/ (14 archivos)
+│   │   │   │   ├── 📄 AD23L00356.pdf
+│   │   │   │   ├── 📄 CERTIFICADOS DE EXTENSION 101600283.pdf
+│   │   │   │   ├── 📄 VINILIQUID Kosher.pdf
+│   │   │   │   ├── 📄 ViniLiquid Lot  AD21L01390  (324+96) kg.pdf
+│   │   │   │   ├── 📄 ViniLiquid Lot 081502034.pdf
+│   │   │   │   ├── 📄 ViniLiquid Lot 1016000283.pdf
+│   │   │   │   ├── 📄 ViniLiquid Lot AD17L00621.pdf
+│   │   │   │   ├── 📄 ViniLiquid Lot AD21L00441 (324+96) kg.pdf
+│   │   │   │   ├── 📄 ViniLiquid Lot AD21L00441.pdf
+│   │   │   │   ├── 📄 ViniLiquid Lot AD21L01390 (324+96) kg.docx
+│   │   │   │   ├── 📄 ViniLiquid Lot AD23L00980.pdf
+│   │   │   │   ├── 📄 ViniLiquid Lot AD23L00981.pdf
+│   │   │   │   ├── 📄 Viniliquid Lot #AD17L00621.pdf
+│   │   │   │   └── 📄 viniliquid Lot AD23L00951.pdf
+│   │   │   ├── 📁 VR 44/ (27 archivos)
+│   │   │   │   ├── 📄 CoA 9S140 9S814 SAFOENO VR44 X 10 KG.pdf
+│   │   │   │   ├── 📄 CoA SAFOENO VR44 X 10 KG  9S814 9S140.pdf
+│   │   │   │   ├── 📄 SafOeno VR 44  20x500g Lot 2000170.pdf
+│   │   │   │   ├── 📄 SafOeno VR 44  20x500g Lot 2200061.pdf
+│   │   │   │   ├── 📄 SafOeno VR 44  20x500g Lot 2201201.pdf
+│   │   │   │   ├── 📄 SafOeno VR 44 LOTE  228210095.docx
+│   │   │   │   ├── 📄 SafOeno VR 44 LOTE 228210095.docx
+│   │   │   │   ├── 📄 SafOeno VR 44 LOTE 228210095.pdf
+│   │   │   │   ├── 📄 SafOeno VR 44 LOTE 9S821 -.pdf
+│   │   │   │   ├── 📄 SafOeno VR 44 LOTE 9S821.docx
+│   │   │   │   ├── 📄 SafOeno VR 44 LOTE N95821.pdf
+│   │   │   │   ├── 📄 SafOeno VR 44 x 10 kg Lot 9S814.pdf
+│   │   │   │   ├── 📄 SafOeno VR 44 x 500 gr LOTE 2300428.pdf
+│   │   │   │   ├── 📄 SafOeno VR-44 1x10Kg - 23870209S.pdf
+│   │   │   │   ├── 📄 SafOeno VR-44 Lot 1800537.pdf
+│   │   │   │   ├── 📄 SafOeno VR-44 Lot 1900594 (2021).pdf
+│   │   │   │   ├── 📄 SafOeno VR-44 Lot 2000048.pdf
+│   │   │   │   ├── 📄 SafOeno VR-44 Lot 2000170.pdf
+│   │   │   │   ├── 📄 SafOeno VR-44 Lot 21814009S.pdf
+│   │   │   │   ├── 📄 SafOeno VR-44 Lot 21929_3.pdf
+│   │   │   │   ├── 📄 SafOeno VR-44 Lot 22946_2.pdf
+│   │   │   │   ├── 📄 SafOeno VR-44 Lot 95814.pdf
+│   │   │   │   ├── 📄 SafOeno VR44 Lot 9S870_2.pdf
+│   │   │   │   ├── 📄 Safoeno™ VR44  1x 10 kg lote 9S870 (1).pdf
+│   │   │   │   ├── 📄 VR 44 LOTE 1500471.pdf
+│   │   │   │   ├── 📄 VR 44 LOTE 1500741.pdf
+│   │   │   │   └── 📄 VR 44 Lot N1900594.pdf
+│   ├── 📁 Vinexpert/ (0 archivos)
+│   │   ├── 📁 CERTIFICADO DE CALIDAD/ (0 archivos)
+│   │   │   ├── 📁 ENZIMAS/ (21 archivos)
+│   │   │   │   ├── 📄 CERT DE CALIDAD EC 018 5 litros.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD EC 019 5 litros.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD EC 25325.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD EC 25326.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD EC 641.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD EC 789.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD GP 00025325.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD GP 018 5 litros.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD GP 25325.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD GP 464 5 litros.docx
+│   │   │   │   ├── 📄 CERT DE CALIDAD GP 47655.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD GP 507.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD GP 641.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD GP 789.pdf
+│   │   │   │   ├── 📄 Cert Analisis BA-0001717718 - Enzima Pectolitica liquida - FOODZYME ET - PROGREX ET.pdf
+│   │   │   │   ├── 📄 Cert Analisis BA-0001717719 - Enzima Pectolitica liquida - FOODZYME ED - PROGREX ED.pdf
+│   │   │   │   ├── 📄 Cert Analisis BA-0001717720 - Enzima Pectolitica liquida - FOODZYME EC - PROGREX EC.pdf
+│   │   │   │   ├── 📄 Cert.de análisis ED Lote OP-00036160.xlsx
+│   │   │   │   ├── 📄 Cert.de análisis ED Lote OP-00036464.xlsx
+│   │   │   │   ├── 📄 Cert.de análisis ED Lote OP-00037125.xlsx
+│   │   │   │   ├── 📄 Cert.de análisis ED Lote OP-00047655.xlsx
+│   │   │   │   ├── 📁 EDITABLES/ (15 archivos)
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD EC 018 5 litros.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD EC 25325.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD EC 641.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD EC 789.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD GP 018 5 litros.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD GP 25325.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD GP 464 5 litros.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD GP 507.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD GP 641.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD GP 789.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA  012018 (2).docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA  012018.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA COMPLEX 012017.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA COMPLEX 012018.docx
+│   │   │   │   │   └── 📄 ~$RT DE CALIDAD GP 507.docx
+│   │   │   ├── 📁 GELATINA CORDOBA/ (4 archivos)
+│   │   │   │   ├── 📄 CERTIFICADO SANITARIO.pdf
+│   │   │   │   ├── 📄 Cert calidad-libre 5130 Y 5130B.pdf
+│   │   │   │   ├── 📄 Cert calidad-libre.pdf
+│   │   │   │   └── 📄 DOCUMENTACION GELATINA CORDOBA 2-12-2021.pdf
+│   │   │   ├── 📁 GELATINA LIQUIDA/ (42 archivos)
+│   │   │   │   ├── 📄 ANALISIS GELAT LIQ COMPLETO LAIQUEN.pdf
+│   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0122 completo.doc
+│   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0122.doc
+│   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0521 completo.doc
+│   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0521.doc
+│   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0721 completo.doc
+│   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0821.pdf
+│   │   │   │   ├── 📄 Cert Calidad VINEXPERT GELATINA LIQUIDA LOTE 0219..pdf
+│   │   │   │   ├── 📄 Cert Calidad VINEXPERT GELATINA LIQUIDA LOTE 49574906.pdf
+│   │   │   │   ├── 📄 Cert Calidad VINEXPERT gelatina liquida.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0120.doc
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0120.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0121.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0122.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0220.doc
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0221.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 03-21.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0319.doc
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0319.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0320.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 04-21.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0419.doc
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0419.doc.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0419.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0420.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0519.doc
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0519.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0520 (2).pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0520.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0521.doc
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0521.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 06-21.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0619.doc
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0619.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0719.doc
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0719.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0721.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0821.doc
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0821.pdf
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida Lote 0921.doc
+│   │   │   │   ├── 📄 Cert. de Calidad Gelatina Liquida editable.doc
+│   │   │   │   ├── 📄 INFORME DE RECLAMO OVC S.A..doc
+│   │   │   │   ├── 📁 LAIQUEN/ (10 archivos)
+│   │   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0320.doc
+│   │   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0419.doc
+│   │   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0519.doc
+│   │   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0520.doc
+│   │   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0619.doc
+│   │   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC 0719.doc
+│   │   │   │   │   ├── 📄 ANALISIS GELATINA LIQUIDA OVC LOTE 01-19.doc
+│   │   │   │   │   ├── 📄 laiken certificados.pdf
+│   │   │   │   │   ├── 📄 lote 0420 laiken parte 1.pdf
+│   │   │   │   │   └── 📄 lote 0420 laiken parte 2.pdf
+│   │   │   ├── 📁 INSUMOS VINEXPERT BATCH/ (1 archivos)
+│   │   │   │   ├── 📄 LIBRE DE ALERGENOS PRAYON.pdf
+│   │   │   │   ├── 📁 ACIDO BORICO/ (1 archivos)
+│   │   │   │   │   └── 📄 ACIDO BORICO COA + HDS 26021.pdf
+│   │   │   │   ├── 📁 CALCIO CLORURO DIHIDRATO/ (1 archivos)
+│   │   │   │   │   └── 📄 CALCIO CLORURO DIHIDRATO ESPECIFICACION 26021.pdf
+│   │   │   │   ├── 📁 CINC SULFATO/ (1 archivos)
+│   │   │   │   │   └── 📄 CINC SULFATO 26021.pdf
+│   │   │   │   ├── 📁 CLORHIDRATO DE TIAMINA/ (1 archivos)
+│   │   │   │   │   ├── 📄 CLORHIDRATO DE TIAMINA 26021.pdf
+│   │   │   │   │   ├── 📁 ACIDO CITRICO/ (1 archivos)
+│   │   │   │   │   │   └── 📄 ACIDO CITRICO 503000131.pdf
+│   │   │   │   ├── 📁 CLORURO DE POTASIO/ (1 archivos)
+│   │   │   │   │   └── 📄 CLORURO DE POTASIO 30732760.pdf
+│   │   │   │   ├── 📁 IODURO POTASIO 26021/ (1 archivos)
+│   │   │   │   │   └── 📄 IODURO POTASIO 26021.pdf
+│   │   │   │   ├── 📁 LC ACIDO CITRICO/ (1 archivos)
+│   │   │   │   │   └── 📄 LC ACIDO CITRICO 2025-26.pdf
+│   │   │   │   ├── 📁 LC SULFATO DE COBRE/ (1 archivos)
+│   │   │   │   │   └── 📄 LC SULFATO DE COBRE 2025-26.pdf
+│   │   │   │   ├── 📁 POTASIO CLORURO/ (1 archivos)
+│   │   │   │   │   └── 📄 CLORURO DE POTASIO 30732760.pdf
+│   │   │   │   ├── 📁 POTASIO IODURO HDS/ (1 archivos)
+│   │   │   │   │   └── 📄 POTASIO IODURO HDS.pdf
+│   │   │   │   ├── 📁 SULFATO COBRE PENTA/ (1 archivos)
+│   │   │   │   │   └── 📄 SULFATO COBRE PENTA 272056.pdf
+│   │   │   │   ├── 📁 SULFATO DE MAGNESIO/ (1 archivos)
+│   │   │   │   │   └── 📄 SULFATO DE MAGNESIO 26021.pdf
+│   │   │   │   ├── 📁 SULFATO DE MANGANESO/ (2 archivos)
+│   │   │   │   │   ├── 📄 SULFATO DE MANGANESO 26021 HDS.pdf
+│   │   │   │   │   └── 📄 SULFATO DE MANGANESO 26021.pdf
+│   │   │   ├── 📁 LEVADURAS/ (20 archivos)
+│   │   │   │   ├── 📄 CERT CALIDAD VINEXPERT FRUIT  Lot 2S758.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 1702000.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 6S020.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 6S107.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 6S141.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD PREMIUM RED.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD PREMIUM WHITE.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 9S811.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 LOTE 9S104  VENCIDO.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 LOTE 9S113.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 lote 18118009S.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 lote 9S118.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 lote 9S811.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 lote 9S870.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 lote AR25ES0104.pdf
+│   │   │   │   ├── 📄 Oenologic Yeast type PDM - Lot N 9S113 EXTENSION SUPER 4.pdf
+│   │   │   │   ├── 📄 SUPER 4 lote 21811209S.pdf
+│   │   │   │   ├── 📄 SUPER 4 lote 9S006_2.pdf
+│   │   │   │   ├── 📄 SachCerevisiae 6S107 (1).pdf
+│   │   │   │   ├── 📄 Thumbs.db.id-80C6EC46.{mailrepa.lotos@aol.com}.CrySiS
+│   │   │   │   ├── 📁 EDITABLES/ (23 archivos)
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 1702000.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 1702000.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 2014006S.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 2016-2018.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 20758002S.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 6S107.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT 6S107.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD FRUIT1702000.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD PREMIUM RED.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD PREMIUM WHITE.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 9S811.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 NUEVO.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 NUEVO.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 lote 16113009S.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 lote 16113009S.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 lote 95104.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 lote 9S811.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4 lote 9S811.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD SUPER 4.docx
+│   │   │   │   │   ├── 📄 Cert Calidad VINEXPERT FRUIT.pdf
+│   │   │   │   │   └── 📄 Cert Calidad VINEXPERT SUPER 4.pdf
+│   │   │   │   ├── 📁 FERMENTIS MATERIA PRIMA/ (2 archivos)
+│   │   │   │   │   ├── 📄 Cert Anal Levaduras VR 44 LOTE 1500471.pdf
+│   │   │   │   │   └── 📄 Levadura enológica tipo PDM Lot AR25ES0104.pdf
+│   │   │   │   ├── 📁 NO USAR/ (0 archivos)
+│   │   │   ├── 📁 NUTRIENTES - VINEXPERT BATCH, ETC/ (5 archivos)
+│   │   │   │   ├── 📄 202404 COA VINEXPERT BATCH.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD VINEXPERT BATCH 202205.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD VINEXPERT BATCH 202305.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD VINEXPERT BATCH 202503.pdf
+│   │   │   │   ├── 📄 CERT DE CALIDAD VINEXPERT BATCH 202605.pdf
+│   │   │   │   ├── 📁 NPA COMPLEX Y VINEXPERT O/ (5 archivos)
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA  012018.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA COMPLEX 012018.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA COMPLEX 201851.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA COMPLEX 202009.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD VINEXPERT O  012018.pdf
+│   │   │   │   │   ├── 📁 lotes 2017/ (3 archivos)
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA  012017.pdf
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA COMPLEX 012017.pdf
+│   │   │   │   │   │   └── 📄 CERT DE CALIDAD VINEXPERT O  012017.pdf
+│   │   │   │   ├── 📁 editable/ (10 archivos)
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD LOTE 202605 VINEXPERT BATCH.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA  012017.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA COMPLEX 012017.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA COMPLEX 201851.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD NPA COMPLEX 202009.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD VINEXPERT BATCH 202605.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD VINEXPERT BATCH.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD VINEXPERT BATCH.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD VINEXPERT O  012017.docx
+│   │   │   │   │   └── 📄 CERT DE CALIDAD VINEXPERT O  012018.docx
+│   │   │   ├── 📁 OBSOLETOS/ (0 archivos)
+│   │   │   │   ├── 📁 GOMA ARABIGA LIQUIDA/ (1 archivos)
+│   │   │   │   │   └── 📄 CERT DE CALIDAD GOMA ARABIGA LIQUIDA 012018.pdf
+│   │   │   │   ├── 📁 ICTIOCOLA/ (16 archivos)
+│   │   │   │   │   ├── 📄 Biofine 1.jpg
+│   │   │   │   │   ├── 📄 Biofine 2.jpg
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 0001350483.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 0001350483.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 0001919129.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 0002231762.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 0002231762.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 0002871777.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 0002938582.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 0002939982.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 0002939982.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 0004817755.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 012017.docx
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 012017.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD ICTIOCOLA 2938582 DANKAN.pdf
+│   │   │   │   │   └── 📄 Cert Calidad VINEXPERT ICTIOCOLA 022016.pdf
+│   │   │   │   ├── 📁 TANINOS/ (3 archivos)
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD TF  032019.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD TF COLOR 022019.pdf
+│   │   │   │   │   ├── 📄 CERT DE CALIDAD TF COLOR 202104.pdf
+│   │   │   │   │   ├── 📁 editable/ (10 archivos)
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD TF  012017.docx
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD TF  012018.docx
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD TF  012018.pdf
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD TF  032019.docx
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD TF  032019.pdf
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD TF COLOR 012017.docx
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD TF COLOR 012018.pdf
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD TF COLOR 022019.docx
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD TF COLOR 202104.pdf
+│   │   │   │   │   │   └── 📄 ~$RT DE CALIDAD TF  032019.docx
+│   │   │   │   │   ├── 📁 lotes 2017/ (2 archivos)
+│   │   │   │   │   │   ├── 📄 CERT DE CALIDAD TF  012017.pdf
+│   │   │   │   │   │   └── 📄 CERT DE CALIDAD TF COLOR 012017.pdf
+├── 📁 Carbon/ (0 archivos)
+│   ├── 📁 ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/ (0 archivos)
+│   │   ├── 📁 CERTIFICADOS DE CALIDAD/ (1 archivos)
+│   │   │   ├── 📄 Certificado de calidad EDITABLE OVC PLUS.docx
+│   │   │   ├── 📁 Certificados de calidad editables/ (8 archivos)
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 6050920.odg
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 7022420.pdf
+│   │   │   │   ├── 📄 cert calidad OVC PLUS fecovita 7112420.pdf
+│   │   │   │   ├── 📄 cert calidad OVC PLUS fecovita 7112520.pdf
+│   │   │   │   ├── 📄 cert calidad OVC PLUS fecovita.pdf
+│   │   │   │   ├── 📄 cert. ovc plus -fecovita 7112420.pdf
+│   │   │   │   ├── 📄 cert. ovc plus -fecovita 7112520.pdf
+│   │   │   │   └── 📄 tmpF1E6 fecovita especificaciones.pdf
+│   │   │   ├── 📁 OVC GAC WS/ (15 archivos)
+│   │   │   │   ├── 📄 2305133-01 CARBON OVC GAC 12 X 40 WS 350 KG.pdf
+│   │   │   │   ├── 📄 2305193-01 CARBON GAC 12 X 40 WS 350 KG.pdf
+│   │   │   │   ├── 📄 2305213-01 CARBON OV C GAC 12 X 40 WS 350 KG.pdf
+│   │   │   │   ├── 📄 2305223-01 CARBON OVC GAC 12 X 40 WS 350 KG.pdf
+│   │   │   │   ├── 📄 CARBON GAC 12 X 40 WS X 350 KG   LOTE  2411303-7.pdf
+│   │   │   │   ├── 📄 CARBON OVC GAC 12 x 40  WS LOTE 2205253-01.pdf
+│   │   │   │   ├── 📄 CARBON OVC GAC 12 x 40  WS LOTE 2205273-01.pdf
+│   │   │   │   ├── 📄 CARBON OVC GAC 12 x 40  WS LOTE 2205283-01.pdf
+│   │   │   │   ├── 📄 CARBON OVC GAC 12 x 40  WS LOTE 2303253-01.pdf
+│   │   │   │   ├── 📄 CARBON OVC GAC 12 x 40  WS LOTE 2303263-01.pdf
+│   │   │   │   ├── 📄 CARBON OVC GAC 12 x 40  WS LOTE 2303273-01.pdf
+│   │   │   │   ├── 📄 CARBON OVC GAC 12 x 40  WS LOTE 2303283-01.pdf
+│   │   │   │   ├── 📄 CARBON OVC GAC WS LOTE 2104183-03.pdf
+│   │   │   │   ├── 📄 CERTIFICADO OVC GAC 12 X 40 LOTE 2512043 07.pdf
+│   │   │   │   └── 📄 COA 23032503-01.pdf
+│   │   │   ├── 📁 OVC GRW 440/ (1 archivos)
+│   │   │   │   └── 📄 CARBON OVC GRW 440 LOTE 21041644031.pdf
+│   │   │   ├── 📁 OVC PLUS/ (99 archivos)
+│   │   │   │   ├── 📄 19121120 OVC PLUS.pdf
+│   │   │   │   ├── 📄 19121220 OVC PLUS.pdf
+│   │   │   │   ├── 📄 19121320 OVC PLUS.pdf
+│   │   │   │   ├── 📄 19121420 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20031420 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20031720 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20032120 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20032220 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20040220 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20040320 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20040520 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20051820 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20052820 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20071820 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20072520 OVC PLUS.pdf
+│   │   │   │   ├── 📄 20072620 OVC PLUS.pdf
+│   │   │   │   ├── 📄 21122520.pdf
+│   │   │   │   ├── 📄 21ACI1201-COA 21011820.pdf
+│   │   │   │   ├── 📄 22072720 OVC PLUS.pdf
+│   │   │   │   ├── 📄 22072820 OVC PLUS.pdf
+│   │   │   │   ├── 📄 22073120 OVC PLUS.pdf
+│   │   │   │   ├── 📄 22080220 OVC PLUS.pdf
+│   │   │   │   ├── 📄 22081820 OVC PLUS.pdf
+│   │   │   │   ├── 📄 22081920 OVC PLUS.pdf
+│   │   │   │   ├── 📄 22082120 OVC PLUS.pdf
+│   │   │   │   ├── 📄 23030520 OVC PLUS.pdf
+│   │   │   │   ├── 📄 23031120 OVC PLUS.pdf
+│   │   │   │   ├── 📄 23041120 CARBON OVC.pdf
+│   │   │   │   ├── 📄 23041720 CARBON OVC PLUS.pdf
+│   │   │   │   ├── 📄 23090220 OVC PLUS.pdf
+│   │   │   │   ├── 📄 26ACI11539-COA 25120920.pdf
+│   │   │   │   ├── 📄 26ACI11539-COA 26010420.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  24072120.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  24073020.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  24073120.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  24080220.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  24101320.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  24102820.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  24102920.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  24103020.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  25020320.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS  LOTE  24041802.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS LOTE 23090220.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS LOTE 25073120.pdf
+│   │   │   │   ├── 📄 CERTIFICADOS DE ANALISIS ASPIRE CHEMICALS.pdf
+│   │   │   │   ├── 📄 COA-21011820.pdf
+│   │   │   │   ├── 📄 Cert Calidad Fecovita Lote 7112420  2°.pdf
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 5120620.pdf
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 6040520.pdf
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 6041020.pdf
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 6041820.pdf
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 6041920.pdf
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 6050920..pdf
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 6050920.pdf
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 6051920.pdf
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 7022420.pdf
+│   │   │   │   ├── 📄 Cert Calidad OVC PLUS 7112420.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 7112520.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 7112620.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8022120.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8022220.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8030420.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8041520.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8041720.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8050320.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8112020.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8112120.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8112220.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8112920.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8121420.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8121820.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8121920.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 8122020.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 9020120.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 9070420.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 9071320.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 9071720.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 9071820.pdf
+│   │   │   │   ├── 📄 Certificado OVC PLUS 9071920.pdf
+│   │   │   │   ├── 📄 Certificado de Calidad Fecovita Lote 7112420.pdf
+│   │   │   │   ├── 📄 Certificado de Calidad Fecovita Lote 7112520.pdf
+│   │   │   │   ├── 📄 Certificado de Calidad Fecovita Lote 7112620.pdf
+│   │   │   │   ├── 📄 LOTE 21031820.pdf
+│   │   │   │   ├── 📄 LOTE 21032020.pdf
+│   │   │   │   ├── 📄 LOTE 21032120.pdf
+│   │   │   │   ├── 📄 LOTE 21061320.pdf
+│   │   │   │   ├── 📄 lote 20021920 OVC.pdf
+│   │   │   │   ├── 📄 lote 20021920.pdf
+│   │   │   │   ├── 📄 lote 20022020.PDF
+│   │   │   │   ├── 📄 lote 20022520.pdf
+│   │   │   │   ├── 📄 lote 21011020.pdf
+│   │   │   │   ├── 📄 lote 21011120.pdf
+│   │   │   │   ├── 📄 lote 21061520.pdf
+│   │   │   │   ├── 📄 lote 21061620.pdf
+│   │   │   │   ├── 📄 lote 21121220.pdf
+│   │   │   │   ├── 📄 lote 21121320.pdf
+│   │   │   │   ├── 📄 lote 21121520 1.pdf
+│   │   │   │   ├── 📄 lote 21121520.pdf
+│   │   │   │   └── 📄 lote 21122420.pdf
+│   │   │   ├── 📁 OVC PLUS C/ (92 archivos)
+│   │   │   │   ├── 📄 20051420 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 20052020 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 20071820 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 20072320 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 20102320 OVC PLUS C -2.pdf
+│   │   │   │   ├── 📄 20102320 OVC PLUS C 040121.pdf
+│   │   │   │   ├── 📄 20102320 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 20120820 OVC PLUS C LISTO.pdf
+│   │   │   │   ├── 📄 20120820 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 21011020 OVC PLUS C-0.pdf
+│   │   │   │   ├── 📄 21011020 OVC PLUS C-1.pdf
+│   │   │   │   ├── 📄 21022120 OVC PLUS C OK.pdf
+│   │   │   │   ├── 📄 21022120 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 21031620 OVC PLUS C OK.pdf
+│   │   │   │   ├── 📄 21031620 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 21031720 OVC PLUS C OK.pdf
+│   │   │   │   ├── 📄 21031720 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 21032120 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 21040720 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 21080520 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 21082320 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 21090820 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 21091220 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 22020220 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 22022220 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 22030420 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 22072920 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23022520 OVC PLUS.pdf
+│   │   │   │   ├── 📄 23030520 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23030720 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23031120 OVC PLUS.pdf
+│   │   │   │   ├── 📄 23031220 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23031320 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23032420 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23032720 CARON OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23032720 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23040720 CARON OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23041020 CARBON OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23041120 CARBON OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23041120 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23062920 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 23ACI1361-COA-23041120 PLUS C.pdf
+│   │   │   │   ├── 📄 23ACI1361-COA-23062920.pdf
+│   │   │   │   ├── 📄 23ACI1361-COA-23070120.pdf
+│   │   │   │   ├── 📄 23ACI1371 OVC PLUS C (2).pdf
+│   │   │   │   ├── 📄 23ACI1371 OVC PLUS C.pdf
+│   │   │   │   ├── 📄 24ACI1402- lote 24031120.pdf
+│   │   │   │   ├── 📄 25ACI1473 CARBON OVC PLUS C LOTE 25031120.pdf
+│   │   │   │   ├── 📄 25ACI1473 CARBON OVC PLUS C LOTE 25031220.pdf
+│   │   │   │   ├── 📄 25ACI1473 CARBON OVC PLUS C LOTE 25031320.pdf
+│   │   │   │   ├── 📄 25ACI1473 CARBON OVC PLUS C LOTE 25031420.pdf
+│   │   │   │   ├── 📄 25ACI1495 PLUS C LOTE 25060320.pdf
+│   │   │   │   ├── 📄 26ACI1539-COA-26011120.pdf
+│   │   │   │   ├── 📄 7ARBON OVC PLUS C  LOTE  24051920.pdf
+│   │   │   │   ├── 📄 7ARBON OVC PLUS C  LOTE  24071020.pdf
+│   │   │   │   ├── 📄 Agente de OVC PLUS C.agent
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  24081820.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS   LOTE  25010420.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C   LOTE  24030320.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C  LOTE  24081820.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C  LOTE  25010420.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C  LOTE  25020520.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C  LOTE  25040420.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C  LOTE  25042420.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C  LOTE  25070120.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE  24032520.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE  24032620.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE  24042620.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE  24050120.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE  24051820.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE 21041220.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE 21042120.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE 21062020.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE 21070720.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE 21080520.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE 23041120.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE 24032520.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE 24032620.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE 26040420.pdf
+│   │   │   │   ├── 📄 CARBON OVC PLUS C LOTE 26051620.pdf
+│   │   │   │   ├── 📄 CERTIFICADO OVC PLUS C LOTE 25062620.pdf
+│   │   │   │   ├── 📄 CERTIFICADO OVC PLUS C LOTE 25062720.pdf
+│   │   │   │   ├── 📄 CERTIFICADO OVC PLUS C LOTE 25070120.pdf
+│   │   │   │   ├── 📄 CERTIFICADO OVC PLUS C LOTE 26011620.pdf
+│   │   │   │   ├── 📄 CERTIFICADO OVC PLUS C LOTE 26030820.pdf
+│   │   │   │   ├── 📄 CERTIFICADO OVC PLUS C LOTE 26031820.pdf
+│   │   │   │   ├── 📄 CERTIFICADO OVC PLUS C LOTE 26040320.pdf
+│   │   │   │   ├── 📄 Crt CARBON OVC PLUS C  26051620.pdf
+│   │   │   │   ├── 📄 Crt CARBON OVC PLUS C 26051720.pdf
+│   │   │   │   ├── 📄 OVC PLUS C  23091320.pdf
+│   │   │   │   ├── 📄 OVC PLUS C 23102920.pdf
+│   │   │   │   └── 📄 reseumen coas 2025.pdf
+│   │   │   ├── 📁 OVC PLUS M/ (4 archivos)
+│   │   │   │   ├── 📄 25ACI11539-COA 25122021.pdf
+│   │   │   │   ├── 📄 25ACI1489-particle size distribution graph.pdf
+│   │   │   │   ├── 📄 CERTIFICADO OVC PLUS M LOTE 25060521.pdf
+│   │   │   │   └── 📄 Muestras COA large particle size Activated Carbon (1).pdf
+│   │   │   ├── 📁 VINEXPERT DECO/ (3 archivos)
+│   │   │   │   ├── 📄 VINEXPERT DECO - COA - Editable.xlsx
+│   │   │   │   ├── 📄 VINEXPERT DECO - COA -LOTE 25062720.pdf
+│   │   │   │   └── 📄 VINEXPERT DECO - COA -LOTE 25062720.xlsx
+│   │   │   ├── 📁 VINEXPERT DESO/ (8 archivos)
+│   │   │   │   ├── 📄 CERTIFICADO VINEXPERT DESO LOTE 260201503.pdf
+│   │   │   │   ├── 📄 CERTIFICADO VINEXPERT DESO LOTE 260202503.pdf
+│   │   │   │   ├── 📄 CERTIFICADO VINEXPERT DESO LOTE 260228503.pdf
+│   │   │   │   ├── 📄 CERTIFICADO VINEXPERT DESO LOTE 260305503.pdf
+│   │   │   │   ├── 📄 MUESTRA COA LOTE 250925KF01 VINEXPERT DESO.pdf
+│   │   │   │   ├── 📄 VINEXPERT DESO - COA - Lote 4848383.pdf
+│   │   │   │   ├── 📄 VINEXPERT DESO - COA - Lote 4848383.xlsx
+│   │   │   │   └── 📄 VINEXPERT DESO - COA - Lote 4873520.xlsx
+│   ├── 📁 NORIT/ (0 archivos)
+│   │   ├── 📁 CERTIFICADOS DE CALIDAD/ (2 archivos)
+│   │   │   ├── 📄 NORIT GCN612G LOTE 059512.pdf
+│   │   │   ├── 📄 NORIT RBHG4  LOTE 3887472.pdf
+│   │   │   ├── 📁 NORIT CA1/ (15 archivos)
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 3925708.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 4034150.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 45229596.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 4843573.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 4844502.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 4846605.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 4854642.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 4857461.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 4912509.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 5148964.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 5308032.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 5328075.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 5328246.pdf
+│   │   │   │   ├── 📄 Cert Calidad NORIT CA1 5328546.pdf
+│   │   │   │   └── 📄 Cert Calidad NORIT CA1 5329425.pdf
+│   │   │   ├── 📁 NORIT CA1 P/ (1 archivos)
+│   │   │   │   └── 📄 NORTI CA1 P LOTE 4452629.pdf
+│   │   │   ├── 📁 NORIT CA1F/ (3 archivos)
+│   │   │   │   ├── 📄 CA1F 0620..pdf
+│   │   │   │   ├── 📄 CA1F 0620.2
+│   │   │   │   └── 📄 Cert Calidad NORIT CA1F 717.2.pdf
+│   │   │   ├── 📁 NORIT CASPF/ (2 archivos)
+│   │   │   │   ├── 📄 CERTIFICADO CALIDAD LOTE N 4323302.pdf
+│   │   │   │   └── 📄 CERTIFICADO CALIDAD LOTE N 4323303.pdf
+│   │   │   ├── 📁 NORIT DX10/ (3 archivos)
+│   │   │   │   ├── 📄 LOTE 4191116.pdf
+│   │   │   │   ├── 📄 LOTE 4722330.pdf
+│   │   │   │   └── 📄 LOTE 4817679.pdf
+│   │   │   ├── 📁 NORIT KV EB SUPRA/ (3 archivos)
+│   │   │   │   ├── 📄 LOTE EX047002.pdf
+│   │   │   │   ├── 📄 LOTE EX047005.pdf
+│   │   │   │   └── 📄 LOTE EX047006.pdf
+│   │   │   ├── 📁 NORIT SA4/ (4 archivos)
+│   │   │   │   ├── 📄 LOTE 4503207.pdf
+│   │   │   │   ├── 📄 LOTE 4643703.pdf
+│   │   │   │   ├── 📄 lote 4503207 2020.pdf
+│   │   │   │   └── 📄 lote 4519409.pdf
+│   │   │   ├── 📁 NORIT SA4 PAH HF/ (8 archivos)
+│   │   │   │   ├── 📄 LOTE 4168799.pdf
+│   │   │   │   ├── 📄 LOTE 4452487.pdf
+│   │   │   │   ├── 📄 LOTE 4503207.pdf
+│   │   │   │   ├── 📄 LOTE 4519409.pdf
+│   │   │   │   ├── 📄 LOTE 4750526.pdf
+│   │   │   │   ├── 📄 lote 4873519.pdf
+│   │   │   │   ├── 📄 lote 4873520.pdf
+│   │   │   │   └── 📄 lote 4885126.pdf
+│   │   │   ├── 📁 NORIT SA4 PAHF/ (3 archivos)
+│   │   │   │   ├── 📄 LOTE 4168799.pdf
+│   │   │   │   ├── 📄 LOTE 4452487.pdf
+│   │   │   │   └── 📄 LOTE 4750526.pdf
+├── 📁 FILTRACIÓN/ (0 archivos)
+│   ├── 📁 PRECOAT 11 F/ (85 archivos)
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 201817 s.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 201943.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 202021.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 202025.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 202421 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 202422 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 202427.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 202436 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 202436.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 202437 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F  Lote 202438 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F Lote 201817.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F Lote 201835.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F Lote 201851.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F Lote 201911.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F Lote 201914.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F Lote 201915.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F Lote 2019181.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 11F Lote 201937.pdf
+│   │   ├── 📄 Certificado de calidad  PRECOAT 11F LOTE 202510 OK.pdf
+│   │   ├── 📄 Certificado de calidad 11F 202632 OK.pdf
+│   │   ├── 📄 Certificado de calidad 11F 202639 OK.pdf
+│   │   ├── 📄 Certificado de calidad 11F EDITABLE.docx
+│   │   ├── 📄 Certificado de calidad 11F LOTE 202001.pdf
+│   │   ├── 📄 Certificado de calidad 11F LOTE 202004.pdf
+│   │   ├── 📄 Certificado de calidad 11F LOTE 202320 OK.pdf
+│   │   ├── 📄 Certificado de calidad 11F LOTE 202347 OK.pdf
+│   │   ├── 📄 Certificado de calidad 11F LOTE 202347.pdf
+│   │   ├── 📄 Certificado de calidad 11F LOTE 202521 OK.pdf
+│   │   ├── 📄 Certificado de calidad 11F LOTE 202546 OK.pdf
+│   │   ├── 📄 Certificado de calidad 11F LOTE 202621 OK.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202007.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202011.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202017.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202024.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202027.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202028.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202035.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202037 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202037.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202047 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202047.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202049 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202102.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202108.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202115.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202117 -FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202118 -FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202119.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202121.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202122.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202125 R.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202125.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202127 JVA.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202127.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202129 JVA.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202129 R.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202129.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202137.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202138.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202142.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202143.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202216.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202218.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202220.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202222.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202224.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202229.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202232.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202237.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202241.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202242.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202243.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202250.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202302.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202316 correc.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202316.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202338.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 20234 ok.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202344 ok.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202617 ok.pdf
+│   │   ├── 📄 Certificado de calidad 11F lote 202630 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 11F LOTE 202517 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 11F LOTE 202519.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 11F LOTE 202605 OK.pdf
+│   │   ├── 📁 ANÁLISIS DE TENDENCIAS/ (2 archivos)
+│   │   │   ├── 📄 INFORME DE TENDENCIA – PRECOAT 11 F (2018–DICIEMBRE 2024).docx
+│   │   │   └── 📄 INFORME TENDENCIAS PRECOAT 11F 2025.docx
+│   ├── 📁 PRECOAT 12 H/ (221 archivos)
+│   │   ├── 📄 Agente de tendencias PRECOAT 12 H.agent
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 201943.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 201944.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 201945.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 201946.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 201949.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 201950.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202009.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202023.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202025.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202026.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202027.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202030.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202032.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202033.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202035.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202036 FECOVITA.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202036.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202037 FECOVITA.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202037.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202039.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202415 OK.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202417 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202418 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202422 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202424 OK.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202426.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202428 ok ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202428 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202430.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202436 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202444 ok.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H  Lote 202636.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201806.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201809.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201812.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201814.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201815.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201817.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201819.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201822.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201823 FECOVITA.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201823.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201824.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201827.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201829 FECOVITA.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201829.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201831.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201835.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201840.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201844.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201845.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201847.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201850.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201903.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201906.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201908.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201911.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201913 ENAV.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201913.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201917.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 2019171.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 2019181.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201919.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201920.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201921.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201922.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201926.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201929.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201930.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201932.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201936.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201938.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201939.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 201943 CEPAS.pdf
+│   │   ├── 📄 Cert. Calidad Precoat 12 H Lote 646 - ENAV.pdf
+│   │   ├── 📄 Certificado de calidad  precoat12H lote 202333 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H  lote 202340.pdf
+│   │   ├── 📄 Certificado de calidad 12H 202251.pdf
+│   │   ├── 📄 Certificado de calidad 12H 202301.pdf
+│   │   ├── 📄 Certificado de calidad 12H 202302.pdf
+│   │   ├── 📄 Certificado de calidad 12H 202311.pdf
+│   │   ├── 📄 Certificado de calidad 12H 202636 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202012.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202016.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202020.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202021.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202024.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202040.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202041.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202044.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202051.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202104.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202105.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202106.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202107.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202109.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202111.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202113.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202114.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202116.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202117.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202119.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202120.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202121.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202122.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202123.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202124 R.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202124.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202125.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202126 R.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202126.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202127 R.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202127.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202129 R.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202129.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202131.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202132.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202135 R.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202135.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202137.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202139..pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202140.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202142 R.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202142.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202146.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202147.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202148.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202151.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202152.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202201.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202206.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202208.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202211.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202212.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202216.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202217.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202218.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202226.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202227.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202234.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202235.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202238.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202242.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202245.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202248.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202320 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202333.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202339 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202345.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202348 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202350 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202350.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202404.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202446 .pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202449 OK.docx
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202505 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202507 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202510 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202512 O K.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202512 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202514 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202515 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202515.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202517 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202518 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202520 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202522 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202523 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202529 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202531 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202531.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202532 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202537 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202541 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202543 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202545 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202550 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202603 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202607 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202609 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202611 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202613 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202613OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202615 ok..pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202616 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202623 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202629.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202631 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202632 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202634 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202637 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H LOTE 202638 OK.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202002.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202005.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202007.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202010.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202011.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202014.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202045.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202047.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202048.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202050.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202052.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202313.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202315.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202316.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202317 correc.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202317.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202321.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202326.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202327.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202338.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202345 ok.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202408.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202411.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202412 correc.pdf
+│   │   ├── 📄 Certificado de calidad 12H lote 202420 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 12H LOTE 202420.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 12H LOTE 202618 ok.pdf
+│   │   ├── 📄 Tabla certificados Precoat 12H.xlsx
+│   │   ├── 📁 ANALISIS DE TENDENCIA/ (4 archivos)
+│   │   │   ├── 📄 CON promp de informe sigue demorando  x errores  AGENTE EXTRACTOR INFORME 2026 (ENE-JUN) PRECOAT 12H.docx
+│   │   │   ├── 📄 Prueba con agente en sharepoint, demora mucho xq va daINFORME DE TENDENCIA – PRECOAT 12H (ENERO 2025 – DIC 2025.docx
+│   │   │   ├── 📄 Prueba con agente en sharepoint, demora mucho xq va dando errINFORME DE TENDENCIA – PRECOAT 12H (hasta Dic 2024.docx
+│   │   │   └── 📄 Tabla certificados Precoat 12H.xlsx
+│   ├── 📁 PRECOAT 12F/ (3 archivos)
+│   │   ├── 📄 Agente de tendencias PRECOAT 12F.agent
+│   │   ├── 📄 Cert. Calidad PRECOAT 12 F LOTE 201924.pdf
+│   │   └── 📄 Certificado de calidad 12 F.docx
+│   ├── 📁 PRECOAT 14 H/ (208 archivos)
+│   │   ├── 📄 1 ARCOR Certificado de calidad 14 H SOLO CAMBIAR DARCY Y DENSIDAD H.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202310.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202312.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202322.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202325.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202327.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202338.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202349.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202406.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202414 INGRECOR.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202414 OK.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202418 ok.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202420.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202421 ok.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202422 ok.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202423 ok.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202423 ok2.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202423.pdf
+│   │   ├── 📄 ARCOR Certificado de calidad 14 H 202428 ok.pdf
+│   │   ├── 📄 Agente de tendencias PRECOAT 14 H.agent
+│   │   ├── 📄 CERTIF.CALIDAD  14 H 201823.pdf
+│   │   ├── 📄 CERTIF.CALIDAD  14 H 201944.pdf
+│   │   ├── 📄 CERTIF.CALIDAD  14 H 202614 INGRECOR.pdf
+│   │   ├── 📄 CERTIF.CALIDAD 201811 - J Y V.pdf
+│   │   ├── 📄 CERTIF.CALIDAD 201811.pdf
+│   │   ├── 📄 CERTIF.CALIDAD 201812  -J y V.pdf
+│   │   ├── 📄 CERTIF.CALIDAD 201812.pdf
+│   │   ├── 📄 CERTIF.CALIDAD 201818.pdf
+│   │   ├── 📄 CERTIF.CALIDAD 201829.pdf
+│   │   ├── 📄 CERTIF.CALIDAD 201839  -J y V.pdf
+│   │   ├── 📄 CERTIF.CALIDAD 201839.pdf
+│   │   ├── 📄 CERTIF.CALIDAD 201942.pdf
+│   │   ├── 📄 CERTIF.CALIDAD 202427.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201833.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201843.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201845.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201847.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201909.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201919.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201920.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201928.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201929.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201936.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201940.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201942.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201945.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 201949.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 202304.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 202306.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 202308.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 202502.pdf
+│   │   ├── 📄 CERTIF.CALIDAD PRECOAT 14 H  LOTE 713 ENAV.pdf
+│   │   ├── 📄 Certificado de calidad  PRECOAT 14 H lote 202509 OK.pdf
+│   │   ├── 📄 Certificado de calidad  precoat14 H lote 202334.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202139.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202140.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202150 ARCOR.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202152 ARCOR.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202338 INGRECOR.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202417.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202418.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202428 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202430 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202431.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202433 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202433.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202437 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202438 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202442 .pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202443.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202444 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202519 EDITABLE ARCOR.docx
+│   │   ├── 📄 Certificado de calidad 14 H 202519 EDITABLE.docx
+│   │   ├── 📄 Certificado de calidad 14 H 202519 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202519 ingrecor.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202519.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202520 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202523 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202526 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202536.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202537 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202543 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202544 OK.docx
+│   │   ├── 📄 Certificado de calidad 14 H 202544.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202546 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202549 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202551 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202606.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202608 .pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202610 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202612 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202614 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202615 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202616 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202618 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202623 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202624 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202624 OKK....pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202624.docx
+│   │   ├── 📄 Certificado de calidad 14 H 202624.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202626 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202630 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202631 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202632 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202635 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202636 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202637 INGRECOR.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202637 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H 202638 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H ARCOR 202349.pdf
+│   │   ├── 📄 Certificado de calidad 14 H EDITABLE LOTE 202330.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE  202605 ok..pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202005.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202011.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202012.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202020.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202024.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202026.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202029.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202030.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202033.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202042.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202043 fecovita.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202043.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202108 fecovita.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202108.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202117.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202120.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202121.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202123.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202125 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202125.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202128 R.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202128.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202137.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202139.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202145.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202147.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202148.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202150.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202152.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202202.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202208.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202212.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202214.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202216.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202218.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202219.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202222.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202223.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202225.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202226.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202229.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202230.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202231 fecovita.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202231.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202232.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202233.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202236.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202237.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202238.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202239.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202241 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202241.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202243.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202244.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202245 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202245.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202246.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202247 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202247.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202250.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202251.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202314.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202325.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202327.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202339.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202343 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202351 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H LOTE 202409 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202007.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202310.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202311.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202312.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202313.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202316.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202322.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202329.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202337.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202338.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202346 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202349 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202445 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202446.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202449 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202450 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202452 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202505.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202507 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202507 ok -.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202507.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202510 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202513 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202514 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 H lote 202515 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 14 H 202530.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 14H 202605 OK.pdf
+│   │   ├── 📄 PRECOAT 14H LOTE 202406.pdf
+│   │   ├── 📁 ANALISIS DE TENDENCIAS/ (2 archivos)
+│   │   │   ├── 📄 INFORME DE TENDENCIA – PRECOAT 14H (ENERO 2025–DICIEM 2025).docx
+│   │   │   └── 📄 INFORME DE TENDENCIA – PRECOAT 14H (HASTA DICIEMBRE 2024).docx
+│   ├── 📁 PRECOAT 14C/ (26 archivos)
+│   │   ├── 📄 Agente de PRECOAT 14C.agent
+│   │   ├── 📄 Certificado de calidad 14 C 202147.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202151.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202211.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202228.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202243.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202306.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202313.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202402.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202535.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202549.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202608 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 C 202637 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 C EDITABLE.docx
+│   │   ├── 📄 Certificado de calidad 14 C LOT 202631 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 C LOTE 202402 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 C LOTE 202530.pdf
+│   │   ├── 📄 Certificado de calidad 14 C LOTE 202552 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 C LOTE 202620 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 C LOTE 202633 OK.pdf
+│   │   ├── 📄 Certificado de calidad 14 C lote 202538 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 C lote 202550 ok.pdf
+│   │   ├── 📄 Certificado de calidad 14 C lote 202550.pdf
+│   │   ├── 📄 Certificado de calidad 14 C lote 202617 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 14 C lote 202530 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 14C LOTE 202522 OK.pdf
+│   │   ├── 📁 ANALISIS DE TENDENCIAS/ (2 archivos)
+│   │   │   ├── 📄 INFORME DE TENDENCIA – PRECOAT 14C (ENERO 2025 – DICIEM 2025).docx
+│   │   │   └── 📄 INFORME DE TENDENCIA – PRECOAT 14C  hasta diciembre 2024.docx
+│   ├── 📁 PRECOAT 15 H/ (86 archivos)
+│   │   ├── 📄 Agente de Tendencias PRECOAT 15 H.agent
+│   │   ├── 📄 Certificado de calidad 15 H - G lote 202019.docx
+│   │   ├── 📄 Certificado de calidad 15 H - G lote 202019.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202005.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202026.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202027.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202029.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202032.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202036 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202036.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202039 ARCOR.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202039.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202042.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202043.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202047 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202047.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202048.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202051 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202051.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202052.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202103.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202104.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202106.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202111.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202113 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202113.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202114 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202114.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202116.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202120.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202121.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202122.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202123.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202125 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202125.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202127 R.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202127.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202128 R.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202128.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202129.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202135.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202136.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202137.pdf
+│   │   ├── 📄 Certificado de calidad 15 H 202202.pdf
+│   │   ├── 📄 Certificado de calidad 15 H EDITABLE FECOVITA.docx
+│   │   ├── 📄 Certificado de calidad 15 H EDITABLE.docx
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201813.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201818.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201822.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201823 FECOVITA.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201823.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201827.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201834.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201839.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201844.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201845.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201851.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201906.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201908.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201917.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 2019171.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201919.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201920.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201923.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201926.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201928.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201933 ARCOR.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201933.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201936.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201938.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201939.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201942.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201945.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 201946.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 202011.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 202015.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 202018.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 202023.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 202024.pdf
+│   │   ├── 📄 Certificado de calidad 15 H LOTE 202025.pdf
+│   │   ├── 📄 Certificado de calidad 15 H lote 202004.pdf
+│   │   ├── 📄 Certificado de calidad 15 H lote 202007.pdf
+│   │   ├── 📄 Certificado de calidad 15 H lote 202008.pdf
+│   │   ├── 📄 Certificado de calidad 15 H lote 202010.pdf
+│   │   ├── 📄 Certificado de calidad 15 H lote 202016.pdf
+│   │   ├── 📄 Certificado de calidad 15 H202039 ARCOR..pdf
+│   │   ├── 📁 ANALISIS DE TENDENCIA/ (1 archivos)
+│   │   │   └── 📄 INFORME DE TENDENCIA – PRECOAT 15 H (hasta diciembre 2024).docx
+│   ├── 📁 PRECOAT 15F/ (3 archivos)
+│   │   ├── 📄 Agente de tendencia PRECOAT 15F.agent
+│   │   ├── 📄 Certificado de calidad 15 F.docx
+│   │   └── 📄 Cet. de Calidad Precoat 15 F Lote 201924.pdf
+│   ├── 📁 PRECOAT 4F/ (56 archivos)
+│   │   ├── 📄 Agente de PRECOAT 4F.agent
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202039.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202045.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202103.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202117.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202119.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202120.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202126 R.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202126.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202133 R.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202133.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202138 fecovita.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202138.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202140.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202146.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202149.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202150.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202224 fecovita.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202224.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202229.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202231.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202234.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202242 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202242.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202248.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202250.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202306.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202423 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202428 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202428.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202435.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202440 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202443 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202517 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202611 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202634.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F 202639 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F EDITABLE.docx
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F LOTE 202319 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F LOTE 202325.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F LOTE 202343 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F LOTE 202517 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F LOTE 202521 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F LOTE 202603 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F LOTE 202628 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202309 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202309.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202319.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202320 correc.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202335.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202336.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202349 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202408.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202532 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202534 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT 4F lote 202537.pdf
+│   │   ├── 📁 ANALISIS DE TENDENCIA/ (2 archivos)
+│   │   │   ├── 📄 INFORME DE TENDENCIA – PRECOAT 4F (ENERO 2025 A DICIEMBRE 20.docx
+│   │   │   └── 📄 INFORME DE TENDENCIA – PRECOAT 4F (HASTA DICIEMBRE 2024).docx
+│   ├── 📁 PRECOAT DWG/ (82 archivos)
+│   │   ├── 📄 Agente de tendencias PRECOAT DWG.agent
+│   │   ├── 📄 Certificado de calidad DWG 202013.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202025.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202031.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202133.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202137.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202141.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202147.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202201 (r).pdf
+│   │   ├── 📄 Certificado de calidad DWG 202201 (real).pdf
+│   │   ├── 📄 Certificado de calidad DWG 202202.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202205.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202213.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202239.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202416.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202426 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202433 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202435.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202440 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202444.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202448.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202530.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202540.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202548.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202625 OK.pdf
+│   │   ├── 📄 Certificado de calidad DWG 202634 OK.pdf
+│   │   ├── 📄 Certificado de calidad DWG EDITABLE.docx
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201811.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201815.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201821.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201826.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201832.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201837.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201841.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201847.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201852.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201903.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201907.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201911.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201916.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201921.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201923.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201924.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201927.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201931.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201937.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201940.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201946.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 201951.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202003.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202006.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202017.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202040.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202044.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202050.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202101.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202109.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202112.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202114.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202119.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202126 R.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202126.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202407.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202411 OK.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202451.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202509.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202541.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202545 OK.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202549 OK.pdf
+│   │   ├── 📄 Certificado de calidad DWG LOTE 202626 OK.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202318.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202330.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202504.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202511 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202530 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202539 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202540 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202601 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202621 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202625.pdf
+│   │   ├── 📄 Certificado de calidad DWG lote 202629 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWG-B 202305.pdf
+│   │   ├── 📁 ANALISIS DE TENDENCIAS/ (2 archivos)
+│   │   │   ├── 📄 Documento.docx
+│   │   │   └── 📄 INFORME DE TENDENCIA – PRECOAT DWG (ENERO 2025 – DICIEMBRE 2025).docx
+│   ├── 📁 PRECOAT DWG - BIG BAG/ (2 archivos)
+│   │   ├── 📄 Certificado de calidad DWG - BIG BAG.docx
+│   │   └── 📄 Certificado de calidad DWG-BIG BAG lote 202505.pdf
+│   ├── 📁 PRECOAT DWG-B/ (2 archivos)
+│   │   ├── 📄 Certificado de calidad DWG-B 202305.pdf
+│   │   └── 📄 Certificado de calidad DWG-B EDITABLE.docx
+│   ├── 📁 PRECOAT DWP3/ (7 archivos)
+│   │   ├── 📄 Agente de PRECOAT DWP3.agent
+│   │   ├── 📄 Certificado de calidad DWP3 EDITABLE.docx
+│   │   ├── 📄 Certificado de calidad DWP3 L202615 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWP3 LOTE  202537.pdf
+│   │   ├── 📄 Certificado de calidad DWP3 LOTE 202610 ok.pdf
+│   │   ├── 📄 Certificado de calidad DWP3 LOTE 202621 OK.pdf
+│   │   └── 📄 Certificado de calidad DWP3 lote 202610.docx
+│   ├── 📁 PRECOAT QSB/ (95 archivos)
+│   │   ├── 📄 ANALISIS OVC 4919 QSB LABORATORIO.doc
+│   │   ├── 📄 Agente de PRECOAT QSB.agent
+│   │   ├── 📄 Certificado de Calidad QSB lote 201840.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201842.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201843.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201844.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201848.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201851.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201910.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201912.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201916.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201920.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201922.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201925.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201930.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201931.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201933.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201934.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201936.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201938.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 2019381.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201939.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201940.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201941.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201945.pdf
+│   │   ├── 📄 Certificado de Calidad QSB lote 201947.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB 202526.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB 202536.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB 202544 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB 202626 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB 202630 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB 202636 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB 202637 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB 202639 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB EDITABLE.docx
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB L 202527.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 201928.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202001.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202015.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202019.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202021.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202024.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202025.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202030.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202035.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202038.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202041.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202043.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202046.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202049.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202052.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202123.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202128 R.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202128.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202140.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202207.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202214-p.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202214.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202218.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202246.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202250.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202301.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202411 (2).pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202411.docx
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202420 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202426 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202445 OK.docx
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202445 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202502.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202506 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202509.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202515 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202528 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202532.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202544 -OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202547 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202551 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202552 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202607 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202617 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202620 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202623 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202627 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202627.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202631.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB LOTE 202633 OK.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB lote 202004.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB lote 202010.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB lote 202344 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB lote 202345 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB lote 202346 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB lote 202509 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB lote 202515.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB lote 202516 ok.pdf
+│   │   ├── 📄 Certificado de calidad PRECOAT QSB lote 202531 ok.pdf
+│   │   ├── 📁 PTE DE RECIBIR FACT 8775/ (1 archivos)
+│   │   │   └── 📄 Certific OVC Fact 8775 LOTE 22605 - QS.pdf
+

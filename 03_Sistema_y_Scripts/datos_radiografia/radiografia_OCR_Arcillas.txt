@@ -1,0 +1,99 @@
+================================================================================
+CATEGORÍA OCR: Arcillas (3 documentos escaneados leídos)
+================================================================================
+
+================================================================================
+ARCHIVO: Arcillas/Puremin/CERTIFICADO DE CALIDAD/Cert.Calidad 24032724 PUREMIN.pdf
+TIPO: PDF_OCR | ESTADO: IMAGEN_PROCESADA_CON_OCR
+================================================================================
+Certificado de inspeccion de calidad
+Fecha
+03.04.2024
+PUREMIN | Pedidodecliente/Fecha
+Minersa Group | 0202400000007/01.03.2024
+Albaran
+3375077000010
+Pedido/Fecha
+2168056000010/01.03.2024
+OVCS.A. | Fechadecaducidad
+ANCHORENA 1540 | 27.03.2027
+00005507LUJANDECUYO | Numero de cliente
+MENDOZA | 1418
+Mendoza(Argentina) | Matricula/Mat.Semiremolque/Contenedor
+84-AH-8K/47-TY-3H/CMAU9117456
+Producto/Especificacion:
+SepigelActiveM200UFBBL2X650KgE
+Lote: | 24032724
+Cantidad: | 22,100T
+Caracteristica | Metodo | Limite | Valor
+Humedad libre | PL10.206 | 7,0--14,0 | 9,2%
+RetenidoM-200 | PL10.203 | 0,0--10,0 | 6.3%
+RetenidoM-325 | PL10.203 | 0,0--33,0 | 25,2%
+AcidezlibremgKOH | PL10.201 | 2,5--7,0 | 2.6mgKOH/g
+PUREMIN
+Minersa Group
+Raul Padilla Certificadocreadoelectronicamenteyvalidosinfirma. | CAMINOAPUREMIN1100- 76700DEDD0ECCOn | Dan·1/1
+
+================================================================================
+ARCHIVO: Arcillas/Puremin/CERTIFICADO DE CALIDAD/Cert.Calidad 24040225 PUREMIN.pdf
+TIPO: PDF_OCR | ESTADO: IMAGEN_PROCESADA_CON_OCR
+================================================================================
+Certificado de inspeccion de calidad
+Fecha
+04.04.2024
+PUREMIN | Pedidodecliente/Fecha
+Minersa Group | 0202400000007/01.03.2024
+Albaran
+3375078000010
+Pedido/Fecha
+2168056000010/01.03.2024
+OVCS.A. | Fecha de caducidad
+ANCHORENA1540 | 02.04.2027
+00005507LUJANDECUYO | Numero de cliente
+MENDOZA | 1418
+Mendoza (Argentina) | Matricula/Mat.Semiremolque/Contenedor
+63-AA-3Y/758-VV-7/FSCU4842990
+Producto/Especificacion:
+SepigelActiveM200UFBBL2X650KgE
+Lote: | 24040225
+Cantidad: | 22,100T
+Caracteristica | Metodo | Limite | Valor
+Humedad libre | PL10.206 | 7,0--14,0 | 8,7%
+RetenidoM-200 | PL10.203 | 0,0--10,0 | 4,0%
+Retenido M-325 | PL10.203 | 0,0--33,0 | 22,9%
+AcidezlibremgKOH | PL10.201 | 2,5-7,0 | 2.8mgKOH/g
+PUREMIN
+Minersa Group
+Raul Padilla Certificadocreadoelectronicamenteyvalidosinfirma. | CAMINOAPUREMIN1100-
+
+================================================================================
+ARCHIVO: Arcillas/Puremin/CERTIFICADO DE CALIDAD/Cert.Calidad 26080123  PUREMIN.pdf
+TIPO: PDF_OCR | ESTADO: IMAGEN_PROCESADA_CON_OCR
+================================================================================
+Certificado de inspeccion de calidad
+Fecha
+07.08.2026
+PUREMIN | Pedidodecliente/Fecha
+Minersa Group | OC0202600000043/27.07.2026
+Albaran
+3488100000010
+Pedido/Fecha
+2231955000010/27.07.2026
+OVCS.A. | Fecha de caducidad
+ANCHORENA1540 | 31.07.2029
+00005507LUJANDECUYO | Numero de cliente
+MENDOZA | 1418
+Mendoza(Argentina) | Matricula/Mat.Semiremolque/ Contenedor
+54-BF-9R/91-UX-2A/TXGU715660-5
+Producto/Especificacion:
+SepigelActiveM200UFBBL2X650KgE
+Lote: | 26080123
+Cantidad: | 20,800T
+Caracteristica | Metodo | Limite | Valor
+Humedad libre | PL10.206 | 7,0--14,0 | 10,4%
+RetenidoM-200 | PL10.203 | 0,0--10,0 | 3,1%
+RetenidoM-325 | PL10.203 | 0,0--33,0 | 22,0%
+AcidezlibremgKOH | PL10.201 | 2,5--7,0 | 4,4mgKOH/g
+Certificadocreadoelectronicamenteyvalido sinfirma. Raul Padilla | CAMINOAPUREMIN1100- 76700PEDROESCOBEDO | Pag.:1/1
+QuirozQuality Manager | Queretaro(Mexico)
+

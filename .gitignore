@@ -1,0 +1,5 @@
+Certificados/
+__pycache__/
+*.pdf
+.venv/
+

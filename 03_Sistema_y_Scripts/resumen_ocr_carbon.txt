@@ -1,0 +1,692 @@
+TOTAL CERTIFICADOS OCR EN CARBÓN: 225
+===========================================================================
+
+📂 SUBCARPETA: Certificados de calidad editables (4 archivos)
+   Etiquetas más frecuentes: Conclusion(4), CHiRCA(3), CERTIFICADODE CALIDAD(3), OVC PLUS(3), Nombre del producto(3), Nro de batch(3), Cantidad(3), Fecha de elaboracion(3), item(3), Absorcion de azul de metileno(3), Absorcion de caramelo(3), Iodo(3)
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/Certificados de calidad editables/Cert Calidad OVC PLUS 7022420.pdf ---
+   CERTIFICATE | OF ANALYSIS
+   No.:17AC1959
+   Date:Mar.2,2017
+   Quantities and Descriptions
+   Product name: | ACTIVATEDCARBON
+   Batch No.: | 7022420
+   Quantity: | 15360kgs
+   Manufacturing date: | Feb.24,2017
+   Expiry date: | Feb.23,2020
+   Item: | Standard | Results
+   Methyleneblue adsorption:mg/g | 250min | 255
+   Caramel adsorption: | 110min | 135
+   lodine value mg/g | 1000min | 1192
+   PH value: units pH | 3-5 | 4.1
+   Ash content:% | 5.0max | 4.1
+   Moisture content:% | 10max | 8.4
+   Fe:% | 0.05max | 0.01
+   C1:% | 0.2max | 0.02
+   As:ppm | 3max. | Conform
+   Heavy metals (as Pb):ppm | 5max. | 0.5
+   Paritcle size 200mesh:% | 90min | 97.5
+   Conclusion: | Comply with standard.
+   ASPIRE | CHEMICALS CO., LTD.
+   Por and on behalf of
+   ASPIRE CHEMICALS COMPANY LIMITED
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/Certificados de calidad editables/cert calidad OVC PLUS fecovita.pdf ---
+   CHiRCA
+   CERTIFICADODE CALIDAD
+   OVC PLUS
+   No.:16AC1902
+   Fecha: 20-mayo-2016
+   CANTIDADESY DESCRIPCION
+   Nombre del producto: | CARBON ACTIVADO
+   Nro de batch: | 6050920
+   Cantidad: | 23540 kg
+   Fecha de elaboracion: | 9-mayo-2016
+   Fecha devencimiento: | 8-mayo-2019
+   item | Estandar | Resultados
+   Absorcion de azul de metileno: mg/g | 250 min | 255
+   Absorcion de caramelo: | 110min | 120
+   Iodo: mg/g | 1000 min | 1103
+   PH: unidades de pH | 3-5 | 4,0
+   Contenido de cenizas:% | 5,0 max | 4,8
+   Contenido de humedad:% | 10 max | 9,0
+   Hierro: % | 0,05 max | 0,02
+   Cloro: % | 0,2 max | 0,01
+   Arsenico: ppm | 3max | Conforme
+   Metales pesados (Pb): ppm | 5 max | 0,7
+   Tamano de particula 200 mesh: % | 90 min | 97,1
+   Conclusion: | Cumple con estandar
+   ASPIRECHEMICALSCO.,LTD
+
+📂 SUBCARPETA: NORIT CA1 (9 archivos)
+   Etiquetas más frecuentes: Manufacturing Plant(8), Grade(8), Customer Grade(8), Quantity Shipped(8), PHYSICALANDCHEMICALPROPERTIES(8), Property Description(8), pH(8), Calcium (acid extr.).(8), Iron (acid extr.).(8), Seal No(8), Signature(8), Customer P.O.Number(7)
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT CA1/Cert Calidad NORIT CA1 3925708.pdf ---
+   CABOT | CabotNoritUKLimited
+   NORITACTIVATEDCARBON | 45 Clydesmill Place
+   CambuslangInd.Estate
+   GlasgowG328RFUnitedKingdom
+   +44 141 641 8841
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Number | 021433991457SX/1
+   Customer P.O.Number | 15-11-02-01
+   OVCS.A
+   Manufacturing Plant: | Glasgow | Av.AccesoestelateralSur2497
+   Grade | NORIT?CA1 | Villanueva 075521
+   Customer Grade
+   Quantity Shipped | 15,600.00 KG
+   Carrier Name | KUEHNE+NAGELNV
+   VehicleID
+   Lot Number | 3925708
+   Shipping Date | 21Oct2015 | Pack Date | 28Aug2015
+   PHYSICALANDCHEMICALPROPERTIES
+   Unit | Ref | Spocification | Average | Specficaion
+   Property Description | Min | Max
+   Moisture (as packed) | mass-% | NSTM_3.08 | 10.4 | 15.0
+   pH | NSTM_3.09 | 2.0 | 2.3 | 3.5
+   Methylenebluc adsorp | g/100g | NSTM_2.18 | 25.0 | 28.9
+   Orthophos (acid extr.) | mass-% | NSTM_3.10 | 2.3 | 3.5
+   Calcium (acid extr.). | mg/kg | NSTM_3.03 | 69 | 200
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT CA1/Cert Calidad NORIT CA1 4034150.pdf ---
+   CABOT | CabotNorit UK Limited
+   NORITACTIVATEDCARBON | 45 ClydesmillPlace
+   Cambuslang Ind.Estate
+   Glasgow G328RF UnitedKingdom
+   +441416418841
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Nurmber | 021434092630SX/1
+   Customer P.O.Nunber | 2016-00000015 | OVCS.A
+   Manufacturing Plant: | Glasgow | Av.Acccso cstelatcral Sur2497
+   Grade | NORITOCAI | Villaueva5521
+   Customer Grade
+   Quantity Shipped | 15,600.00KG
+   CarrierName | KUEHNE+NAGELNV
+   VehicleID
+   Lol Number | 4034150
+   3IMar2016 | PackDate | 07Mar2016
+   PHYSICALANDCHEMICALPROPERTIES
+   Property Description | Ref | Speificzion Min | Average | Specificstion Max
+   Moisture(as packed) | mass-% | NSTM_3.08 | 9.3 | 15.0
+   pH | NSTM_3.09 | 2.0 | 2.7 | 3.5
+   Methyleneblueadsorp | g/100g | NSTM_2.18 | 25.0 | 27.6
+   Orthophos(acid cxtr.) | nass-% | NSTM_3.10 | 2.7 | 3.5
+   Calcium (acid extr.). | nig/kg | NSTM_3.03 | 101 | 200
+   Iron (acid extr.). | mg/kg | NSTM_3.03 | 65 | 150
+   ThedataabovewasobtaindftestsonsampestakenduingeinefroductionandorpackagingofhisroductusingNoritSndrdTestMehosNSTM）Wedot
+
+📂 SUBCARPETA: NORIT CA1 P (1 archivos)
+   Etiquetas más frecuentes: Signature(1), PalletNo/ContainerID(1), Dr.MairiNicol-Wood Technology Manager(1), Pack Date(1), mg/kg(1)
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT CA1 P/NORTI CA1 P LOTE 4452629.pdf ---
+   品
+   Signature: | Seal No: | Date of Manufacture: | udge snoyaad ou aus aq Previom Shlnment Data | Iron (acid extr.). | Calcium (acid extr.). Orthophos(acid extr.) | Methylene blueadsorp | Moisture (as packed) | Property Description | Shipping Date Lot Number VehicleID Carrier Name Quantity Shipped Customer Grade Grade Manufacturing Plant: Customer P.O.Number Sales Order Number
+   PalletNo/ContainerID | PHYSICALANDCHEMICALPROPERTIES | NORITACTIVATEDCARBON CABOT
+   Dr.MairiNicol-Wood Technology Manager | This has been replaced with a"Pack Date” which represents te Date of Manufacture”. | 27Apr2018 4452629 | KUEHNE+NAGELNV 7,200.00KG | NORITOCA1P Glasgow 201800000037 021434567085SX/1
+   Pack Date
+   mg/kg | mg/kg | mass-% g/100g | mass-% | 01Dec2017
+   Thedataabovewasobtainedfmtestsonsamplstakenduringthetimeofproductionand/rpackagingofthisproductuingNoritStandardTestMthosNTM).Wedt | NSTM_3.03 | NSTM_3.03 200 6 | NSTM_3.10 2.2 3 NSTM_2.18 26.0 31.8 | NSTM_3.09 3.5 2.0 2.4 | NSTM_3.08 10.2 15.0 | Min Max Average Ref Specification Specification | Villanueva5521 Av.AccesoestelateralSur2497 OVCS.A | NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS | +44 141 641 8841 | GlasgowG32 8RF United Kingdom Cambuslang Ind. Estate 45 Clydesmill Place Cabot Norit UK Limited
+
+📂 SUBCARPETA: NORIT CA1F (3 archivos)
+   Etiquetas más frecuentes: CABOT(3), Cambuslang Ind. Estate(3), +44 141 641 8841(3), Sales Order Number(3), Customer P.O.Number(3), Manufacturing Plant(3), Grade(3), Customer Grade(3), Quantity Shipped(3), Carrier Name(3), Vehicle ID(3), Lot Number(3)
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT CA1F/CA1F 0620..pdf ---
+   CABOT | Cabot Norit UK Limited
+   NORITACTIVATED CARBON | 45 Clydesmill Place
+   Cambuslang Ind. Estate
+   GlasgowG328RFUnitedKingdom
+   +44 141 641 8841
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Number | 021433682674SX/1
+   Customer P.O.Number | 14-04-21-01 | OVC S.A
+   Manufacturing Plant: | Glasgow | Esteban Kevorkian (011)15-4055-2953
+   Grade | NORIT? CA1F | Avda. de Acceso Este Lateral Sur 2497
+   Customer Grade | Guaymallen
+   Quantity Shipped | 13,680 KG | GUAYMALLEN -Prov Mendoz5519
+   Carrier Name | KUEHNE+NAGEL NV
+   Vehicle ID
+   Lot Number | GL06202 | Package Lot Number 9999
+   Shipping Date | 13May 2014 | Pack Date | 29Sep2013
+   PHYSICALANDCHEMICALPROPERTIES
+   Unit | Ref | Specification | Average | Specification Max
+   Property Description | Min
+   Moisture (as packed) | mass-% | NSTM_3.08 | 13.5 | 15.0
+   pH | NSTM_3.09 | 2.0 | 2.6 | 3.5
+   Particle size >45um Dry | mass-% | 0.1 | 5.0
+   Methylene blue adsorp | g/100g | NSTM_2.18 | 25.0 | 32.0
+   Orthophos (acid extr.) | mass-% | NSTM_3.10 | 1.6 | 3.5
+   Calcium (acid extr.). | mg/kg | NSTM_3.03 | 125 | 200
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT CA1F/CA1F 0620.2 ---
+   CABOT | Cabot Norit UK Limited
+   NORITACTIVATED CARBON | 45 Clydesmill Place
+   Cambuslang Ind. Estate
+   GlasgowG328RFUnitedKingdom
+   +44 141 641 8841
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Number | 021433682674SX/1
+   Customer P.O.Number | 14-04-21-01 | OVC S.A
+   Manufacturing Plant: | Glasgow | Esteban Kevorkian (011)15-4055-2953
+   Grade | NORIT? CA1F | Avda. de Acceso Este Lateral Sur 2497
+   Customer Grade | Guaymallen
+   Quantity Shipped | 13,680 KG | GUAYMALLEN -Prov Mendoz5519
+   Carrier Name | KUEHNE+NAGEL NV
+   Vehicle ID
+   Lot Number | GL06202 | Package Lot Number 9999
+   Shipping Date | 13May 2014 | Pack Date | 29Sep2013
+   PHYSICALANDCHEMICALPROPERTIES
+   Unit | Ref | Specification | Average | Specification Max
+   Property Description | Min
+   Moisture (as packed) | mass-% | NSTM_3.08 | 13.5 | 15.0
+   pH | NSTM_3.09 | 2.0 | 2.6 | 3.5
+   Particle size >45um Dry | mass-% | 0.1 | 5.0
+   Methylene blue adsorp | g/100g | NSTM_2.18 | 25.0 | 32.0
+   Orthophos (acid extr.) | mass-% | NSTM_3.10 | 1.6 | 3.5
+   Calcium (acid extr.). | mg/kg | NSTM_3.03 | 125 | 200
+
+📂 SUBCARPETA: NORIT CASPF (2 archivos)
+   Etiquetas más frecuentes: CABOT(2), Glasgow G32 8RF United Kingdom(2), +44 141 641 8841(2), Customer P.O.Number(2), Grade(2), Customer Grade(2), Quantity Shipped(2), Carrier Name(2), VehicleID(2), Lot Number(2), Shipping Date(2), Moisture (as packed)(2)
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT CASPF/CERTIFICADO CALIDAD LOTE N 4323302.pdf ---
+   CABOT | Cabot Norit UK Limited
+   NORITACTIVATEDCARBON | 45 Clydesmill Place
+   Cambuslang Ind. Estate
+   Glasgow G32 8RF United Kingdom
+   +44 141 641 8841
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Number | 021434393478SX/1
+   Customer P.O.Number | 201700000049
+   Manufacluring Plant: | Glasgow | OVCS.A
+   Grade | NORIT? CASPF | Av.Acceso estelateral Sur 2497 VillamucvaS521
+   Customer Grade | 02101-01801/3
+   Quantity Shipped | 7,200.00 KG
+   Carrier Name | KUEHNE+NAGELNV
+   VehicleID
+   Lot Number | 4323302
+   Shipping Date | 28 Jul 2017 | Pack Dale | 11Jul2017
+   PHYSICALANDCHIEMICALPROPERTIES
+   Property Descripion | Unil | Ref | Specifkaion Mm | Average | Specifcation Max
+   Moisture (as packed) | mass-% | NSTM_3.08 | 8.7 | 15.0
+   pH | NSTM_3.09 | 2.0 | 2.5 | 3.5
+   Particle size>45unDry | mass-% | 1.4 | 5.0
+   Methylene blue adsorp | g/100g | NSTM_2.18 | 28.0 | 30.3
+   Orthophos (acid cxtr.) | %-Sseu | NSTM_3.10 | 2.1 | 3.5
+   Calcium (acid extr.). | mg/kg | NSTM_3.03 | 145 | 200
+   Iron (acid extr.). | mg/kg | NSTM_3.03 | 30 | 150
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT CASPF/CERTIFICADO CALIDAD LOTE N 4323303.pdf ---
+   CABOT | Cabot Norit UK Limited
+   NORITACTIVATEOCARBON | 45 Clydesmill Place
+   Cainbuslang Ind. Estate
+   Glasgow G32 8RF United Kingdom
+   +44 141 641 8841
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Nunber | 021434393478SX/1
+   Customer P.O.Number | 201700000049
+   Manufacturing Plant: | Glasgow | OVCS.A
+   Grade | NORITO CASPF | Av.Acceso este lateral Sur 2497 Villaneva 5521
+   Customer Grade | 02101-01801/3
+   Quantity Shipped | 7,200.00 KG
+   Carrier Name | KUEHNE+NAGELNV
+   VehicleID
+   Lot Number | 4323303
+   Shipping Date | 28 Jul 2017 | Pack Date | 11Jul2017
+   PIIYSICALANDCHEMICALPROPERTIES
+   Property Description | Unit | Ref | Spaifikatioa | Average | Spaxifiaion
+   Mn | Max
+   Moisture (as packed) | mass-% | NSTM_3.08 | 8.0 | 15.0
+   pH | NSTM_3.09 | 2.0 | 2.5 | 3.5
+   Particle size>45um Dry | mass-% | 0.9 | 5.0
+   Metlyleneblueadsorp | g/100g | NSTM_2.18 | 28.0 | 32.5
+   Ortiophos (acid exr.) | m1ass-% | NSTM_3.10 | 2.7 | 3.5
+   Calcium (acid extr.). | mg/kg | NSTM_3.03 | 115 | 200
+
+📂 SUBCARPETA: NORIT GCN612G LOTE 059512.pdf (1 archivos)
+   Etiquetas más frecuentes: ORIGINAL(1), CABOT(1), NORITACTIVATEDCARBON(1), Sales Order Number(1), Customer P.O.Number(1), Manufacturing Plant(1), Grade(1), Customer Grade(1), Quantity Shipped(1), Carrer Name(1), Vebicle ID(1), Lot Number(1)
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT GCN612G LOTE 059512.pdf ---
+   ORIGINAL
+   CABOT
+   NORITACTIVATEDCARBON
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Number | 021383901905SX/1
+   Customer P.O.Number | 15-06-02-01
+   Manufacturing Plant: | OVC S.A
+   Grade | NORIT@ GCN 612 G | Av.AccesoestelateralSur2497 Vilanueva 07 5521
+   Customer Grade
+   Quantity Shipped | 10.000.00 KG
+   Carrer Name | KUEHNE+NAGELNV
+   Vebicle ID
+   Lot Number | 059512
+   Shipping Date | 01 Jul 2015 | Pack Date | 24Jun2015
+   PHYSICALANDCHEMICALPROPERTIES
+   Property Description | Ref | Specification Mn | tndividual Value | Specifiation Max
+   Moisture (as packed) | %-ss2 | NSTM 3.08 | 3.0 | 5.0
+   Apparent density | kg/m3 | NSTM 4.02 | 500
+   CarbontetrachlorideAct(CTC) | mass-% | NSTM 2.27 | 55 | 58
+   Ball- pan hardness | NSTM 4.04 | 98.0 | 0'66
+   Btsdets Shemset Data
+   The dataabove was obtained from tests on samples taken during the time of productionand/orpackaging of this product using Norit StandardTest Methods (NSTM).We do not
+   guarante the same results will be obtained by others in other iaboratories and we disclaim liability resulting from the use ofthe contents of this report.
+   Date of Manufacture:
+   This has been replaced with a"Pack Dae" which represents the *Date of Manufacture”".
+
+📂 SUBCARPETA: NORIT SA4 (2 archivos)
+   Etiquetas más frecuentes: CABOT(2), NORITACTIVATEDCARBON(2), Marshall, TX 75670(2), Sales Order Number(2), Customer P.O.Number(2), Grade(2), Customer Grade(2), Quantity Shipped(2), Carrier Name(2), Lot Number(2), Shipping Date(2), PHYSICALANDCHEMICALPROPERTIES(2)
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT SA4/lote 4503207 2020.pdf ---
+   CABOT | Cabot Norit Americas Inc
+   NORITACTIVATEDCARBON | 3200 University Avenue
+   Marshall, TX 75670
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Number | 021535025391SX/1
+   Customer P.O.Number | 2020-00000057
+   Manufacturing Plant: | Klazienaveen | OVCS.A
+   Grade | NORIT SA4 | Av.Acceso este lateral Sur 2497
+   Customer Grade | Villanueva 5521
+   Quantity Shipped | 4,160.00 KG | Attm:ATT: LABORATORY MANAGER
+   Carrier Name | CHROBINSONWORLDWIDE,INC
+   Vehicle ID | UACU507102
+   Lot Number | 4503207
+   Shipping Date | 25Jun2020 | Pack Date | 25 Feb 2018
+   PHYSICALANDCHEMICALPROPERTIES
+   Property Description | Unit | Ref | Specification | Specification
+   Min | Individual Value | Max
+   Moisture (as packed) | mass-% | NSTM3.08 | 4 | 10
+   Ash content | mass-% | NSTM 3.02 | 7
+   Molasses number (EUR) | NSTM 2.19
+   490 | 580
+   ThrdeeLSHzhrnt Duly
+   Disclaimer:
+   The data above was obtained from tests on samples taken during the time of production and/or packaging ofthis product using Norit Standard Test Methods (NSTM).
+   We do not guarantee the same results willbe obtained by others in other laboratories and we disclaim liability resulting from the use of the contents of this report.
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT SA4/lote 4519409.pdf ---
+   CABOT | Cabot Norit Americas lnc
+   NORITACTIVATEDCARBON | 3200 University Avenue
+   Marshall, TX 75670
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Number | 021535025391SX/1
+   Customer P.O.Number | 2020-00000057
+   ManufacturingPlant: | Klazienaveen | OVCS.A
+   Grade | NORITSA4 | Av.Acceso este lateral Sur 2497
+   Customer Grade | Villanueva 5521
+   Quantity Shipped | 1,840.00 KG | Attn:ATT:LABORATORY MANAGER
+   Carrier Name | CHROBINSONWORLDWIDE,INC
+   VehicleID | UACU 507102
+   Lot Number | 4519409
+   Shipping Date | 25Jun2020 | Pack Date | 13Mar 2018
+   PHYSICALANDCHEMICALPROPERTIES
+   Property Description | Unit | Ref | Specification | Specification
+   Min | Individual Value | Max
+   Moisture (as packed) | mass-% | NSTM 3.08 | 4 | 10
+   Ash content | mass-% | NSTM 3.02 | 7
+   Molasses number (EUR) | NSTM 2.19
+   570 | 580
+   Dhrlvin ShionunUD
+   Disclaimer:
+   The data above was obtained from tests on samples taken during the time of production and/or packaging ofthis product using Norit Standard Test Methods (NSTM). We do not guarantee the same results willbe btained by others in other laboratories and we disclaim liability resulting from the use of the contents ofthis report.
+   Date of Manufacture:
+
+📂 SUBCARPETA: NORIT SA4 PAH HF (5 archivos)
+   Etiquetas más frecuentes: CABOT(5), NORITACTIVATEDCARBON(5), Marshall, TX 75670(5), Sales Order Number(5), Customer P.O.Number(5), Manufacturing Plant(5), Grade(5), Customer Grade(5), Quantity Shipped(5), Carrier Name(5), VehicleID(5), Lot Number(5)
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT SA4 PAH HF/LOTE 4503207.pdf ---
+   CABOT | Cabot Norit Americas Inc
+   NORITACTIVATEDCARBON | 3200 University Avenue
+   Marshall, TX 75670
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Number | 021535025391SX/1
+   Customer P.O.Number | 2020-00000057 | OVC S.A
+   Manufacturing Plant: | Klazienaveen | Av.Acceso este lateral Sur 2497
+   Grade | NORIT SA4 | Villanueva 5521
+   Customer Grade | Attn:ATT:LABORATORY MANAGER
+   Quantity Shipped | 4,160.00 KG
+   Carrier Name | CHROBINSONWORLDWIDE,INC
+   VehicleID | UACU507102
+   Lot Number | 4503207
+   Shipping Date | 25 Jun 2020 | Pack Date | 25 Feb 2018
+   PHYSICALANDCHEMICALPROPERTIES
+   Property Description | Unit | Ref | Specification | Individual Value | Specification
+   Min | Max
+   Moisture (as packed) | mass-% | NSTM 3.08 | 4 | 10
+   Ash content | mass-% | NSTM 3.02 | 7
+   Molasses number (EUR) | NSTM 2.19 | 490 | 580
+   Disclaimer:
+   The data above was obtained from tests on samples taken during the time of production and/or packaging of this product using Norit Standard Test Methods (NSTM).
+   We do not guarantee the same results will be obtained by others in other laboratories and we disclaim liability resulting from the use of the contents of this report
+   Date of Manufacture:
+   This has been replaced with a“Pack Date”which represents the “Date of Manufacture"
+
+   --- Muestra: Carbon/NORIT/CERTIFICADOS DE CALIDAD/NORIT SA4 PAH HF/LOTE 4519409.pdf ---
+   CABOT | Cabot Norit Americas Inc
+   NORITACTIVATEDCARBON | 3200 University Avenue
+   Marshall, TX 75670
+   NORITACTIVATEDCARBONCERTIFICATEOFANALYSIS
+   Sales Order Number | 021535025391SX/1
+   Customer P.O.Number | 2020-00000057 | OVC S.A
+   Manufacturing Plant: | Klazienaveen | Av.Acceso este lateral Sur 2497
+   Grade | NORIT SA4 | Villanueva 5521
+   Customer Grade | Attn:ATT:LABORATORY MANAGER
+   Quantity Shipped | 1,840.00 KG
+   Carrier Name | CHROBINSONWORLDWIDE,INC
+   VehicleID | UACU507102
+   Lot Number | 4519409
+   Shipping Date | 25 Jun 2020 | Pack Date | 13 Mar 2018
+   PHYSICALANDCHEMICALPROPERTIES
+   Property Description | Unit | Ref | Specification | Individual Value | Specification
+   Min | Max
+   Moisture (as packed) | mass-% | NSTM 3.08 | 4 | 10
+   Ash content | mass-% | NSTM 3.02 | 7
+   Molasses number (EUR) | NSTM 2.19 | 570 | 580
+   Disclaimer:
+   The data above was obtained from tests on samples taken during the time of production and/or packaging of this product using Norit Standard Test Methods (NSTM).
+   We do not guarantee the same results will be obtained by others in other laboratories and we disclaim liability resulting from the use of the contents of this report
+   Date of Manufacture:
+   This has been replaced with a“Pack Date”which represents the “Date of Manufacture"
+
+📂 SUBCARPETA: OVC GAC WS (15 archivos)
+   Etiquetas más frecuentes: No.(15), Date(15), Product name(15), OVCGAC12X40WS(15), Batch No.(15), Quantity(15), Manufacturing date(15), Expiry date(15), Item(15), Iodine value mg/g(15), Ash content(15), Moisture(15)
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/OVC GAC WS/2305133-01 CARBON OVC GAC 12 X 40 WS 350 KG.pdf ---
+   CERTIFICATE OF ANALYSIS
+   No.:23ACI1334
+   Date : May 25, 2023
+   Quantities and Descriptions
+   Product name: | ACTIVATEDCARBON
+   OVCGAC12X40WS
+   Batch No.: | 2305133-01
+   Quantity: | 3150kgs
+   Manufacturing date: | May 13,2023
+   Expiry date: | May 12, 2026
+   Item: | Standard | Results
+   Iodine value mg/g | 1100 min. | 1480
+   Ash content: % | 6.0 max. | 1.1
+   Moisture: % | 10 max. | 8.8
+   Apparent density: g/1 | 300 min. | 320
+   Hardness: % | 80 min. | 83.2
+   > 12 mesh: | 5max. | 0.6
+   < 40 mesh: | 5max. | 0.3
+   Conclusion: | Comply with standard.
+   ASPIRE CHEMICALS CO.,LTD.
+   For and on behalf of ASPIRE CHEMICALS COMPANYLIMITED
+   安展化工有限公司
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/OVC GAC WS/2305193-01 CARBON GAC 12 X 40 WS 350 KG.pdf ---
+   CERTIFICATEOF ANALYSIS
+   No.:23ACI1334
+   Date :May 25, 2023
+   Quantities and Descriptions
+   Product name: | ACTIVATEDCARBON
+   OVCGAC12X40WS
+   Batch No.: | 2305193-01
+   Quantity: | 2100kgs
+   Manufacturing date: | May 19,2023
+   Expiry date: | May 18,2026
+   Item: | Standard | Results
+   Iodine value mg/g | 1100 min. | 1365
+   Ash content: % | 6.0 max. | 1.2
+   Moisture: % | 10 max. | 8.7
+   Apparent density: g/1 | 300 min. | 320
+   Hardness: % | 80 min. | 87.4
+   > 12 mesh: | 5 max. | 0.6
+   <40 mesh: | 5max. | 0.1
+   Conclusion: | Comply with standard.
+   ASPIRE CHEMICALS CO.,LTD.
+   For and on behalf of
+   ASPIRECHEMICALSCOMPANYLIMITED
+   安展化工有限公司
+
+📂 SUBCARPETA: OVC GRW 440 (1 archivos)
+   Etiquetas más frecuentes: CERTIFICATE(1), No.(1), Date(1), Quantities and Descriptions(1), Product name(1), OVCGRW440(1), Batch No.(1), Quantity(1), Manufacturing date(1), Expiry date(1), Item(1), Diameter(1)
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/OVC GRW 440/CARBON OVC GRW 440 LOTE 21041644031.pdf ---
+   CERTIFICATE | OFANALYSIS
+   No.:21ACI1216
+   Date :Apr. 22, 2021
+   Quantities and Descriptions
+   Product name: | ACTIVATEDCARBON
+   OVCGRW440
+   Batch No.: | 21041644031
+   Quantity: | 7500kgs
+   Manufacturing date: | Apr. 16, 2021
+   Expiry date: | Apr.15, 2024
+   Item: | Standard | Results
+   Diameter:mm | 4 | 4
+   Iodine value mg/g | 850 min. | 957
+   CTC: % | 40 min. | 42.6
+   Ash content:% | 7.0 max. | 5.1
+   Moisture: % | 5 max. | 1.0
+   Apparent density: g/l | 0.43 ± 0.03 | 0.45
+   Hardness: % | 97min. | 98.0
+   Conclusion: | Comply with standard.
+   ASPIRE CHEMICALS CO.，LTD.
+   For and on behalf of
+   ASPIRE CHEMICALS COPANYLIMITE
+   安展化工有限公司
+
+📂 SUBCARPETA: OVC PLUS (91 archivos)
+   Etiquetas más frecuentes: Conclusion(97), No.(96), Date(96), Product name(96), Batch No.(96), Quantity(96), Manufacturing date(96), Expiry date(96), Item(95), Ash content(95), As(95), Fe(94)
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/OVC PLUS/19121120 OVC PLUS.pdf ---
+   CERTIFICATEOFANALYSIS
+   No.:19ACI1146
+   Date:Jan.9,2020
+   QuantitiesandDescriptions
+   Product name: | ACTIVATEDCARBON
+   Batch No.: | 19121120
+   Quantity: | 20000kgs
+   Manufacturing date: | Dec.11,2019
+   Expiry date: | Dec.10,2022
+   Item: | Standard | Results
+   Methyleneblue adsorption:mg/g | 250min | 255
+   Caramel adsorption: | 110 min | 130
+   Iodine value mg/g | 1000min | 1235
+   PH value: units pH | 3-5 | 4.9
+   Ash content:% | 5.0max | 4.0
+   Fe:% | 0.05max | 0.02
+   C1:% | 0.2max | 0.02
+   As: ppm | 3max. | Conform
+   Heavymetals(asPb):ppm | 5 max. | 1.1
+   Paritcle size 200 mesh:% | 90min | 97.9
+   Conclusion: | Complywith standard.
+   ASPIRECHEMICALSCO.,LTD.
+   For nnd cn behalf o ASPIRECH COHPANYLIDTED
+   安
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/OVC PLUS/19121220 OVC PLUS.pdf ---
+   CERTIFICATEOFANALYSIS
+   No.:19ACI1146
+   Date:Jan.9,2020
+   QuantitiesandDescriptions
+   Product name: | ACTIVATEDCARBON
+   Batch No.: | 19121220
+   Quantity: | 19200kgs
+   Manufacturing date: | Dec.12,2019
+   Expiry date: | Dec.11,2022
+   Item: | Standard | Results
+   Methyleneblue adsorption:mg/g | 250min | 262.5
+   Caramel adsorption: | 110 min | 135
+   Iodine valuemg/g | 1000min | 1182
+   PH value: units pH | 3-5 | 4.5
+   Ash content:% | 5.0max | 3.1
+   Fe:% | 0.05max | 0.02
+   C1:% | 0.2max | 0.04
+   As: pm | 3max. | Conform
+   Heavy metals (as Pb): ppm | 5max. | 1.4
+   Paritcle size200mesh:% | 90min | 96.8
+   Conclusion: | Comply with standard.
+   ASPIRE CHEMICALSCO.,LTD.
+   For snd on behalf of
+   COMPANY LIMITED
+   安展
+
+📂 SUBCARPETA: OVC PLUS C (84 archivos)
+   Etiquetas más frecuentes: No.(84), Date(84), Batch No.(84), Quantity(84), Expiry date(84), Item(84), Ash content(84), Fe(84), As(84), Conclusion(84), Caramel adsorption(83), Product name(81)
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/OVC PLUS C/20051420 OVC PLUS C.pdf ---
+   CERTIFICATE | OFANALYSIS
+   No.:20AC11172
+   Date:May 25,2020
+   Quantities and Descriptions
+   Product name: | ACTIVATEDCARBON
+   Batch No.: | 20051420
+   Quantity: | 23920kgs
+   Manufacturing date: | May 14,2020
+   Expiry date: | May 13,2023
+   Item: | Standard | Results
+   Methylene blue adsorption:mg/g | 250min | 250
+   Caramel adsorption: | 110min | 140
+   Iodine value mg/g | 1000min | 1220
+   PH value:units pH | 3-5 | 3.8
+   Ash content:% | 5.0max | 4.2
+   Fe:% | 0.05max | 0.02
+   C1:% | 0.2max | 0.03
+   As:ppm | 3max. | Conform
+   Heavy mctals (asPb):ppm | 5max. | 0.4
+   Paritclesize200mesh:% | 90 min | 94.8
+   Conclusion: | Comply with standard.
+   ASPIRE CHEMICALS CO., LTD.
+   Forand on behalf of
+   ASPIRE CHEMICALS COMPANY LIMITED
+   安展化工 有限公司
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/OVC PLUS C/20052020 OVC PLUS C.pdf ---
+   CERTIFICATE | OF ANALYSIS
+   No.:20ACI1172
+   Date:May 25,2020
+   Quantities and Descriptions
+   Product name: | ACTIVATEDCARBON
+   Batch No.: | 20052020
+   Quantity: | 14480kgs
+   Manufacturing date: | May 20,2020
+   Expiry date: | May 19,2023
+   Item: | Standard | Results
+   Methylene blue adsorption:mg/g | 250min | 270
+   Caramel adsorption: | 110min | 140
+   Iodine value mg/g | 1000min | 1217
+   PH value: units pH | 3-5 | 3.8
+   Ash content:% | 5.0max | 4.2
+   Fe:% | 0.05max | 0.03
+   C1:% | 0.2max | 0.04
+   As: ppm | 3max. | Conform
+   Heavy mctals (as Pb):ppm | 5max. | 0.8
+   Paritclesize200mesh:% | 90min | 96.4
+   Conclusion: | Comply with standard.
+   ASPIRE CHEMICALS CO., LTD.
+   For and on hrhelf of
+   ASPIRE CHEMICALS COMPANY LMPED 安展化工有限公司
+
+📂 SUBCARPETA: OVC PLUS M (3 archivos)
+   Etiquetas más frecuentes: CERTIFICATE(3), No.(3), Date(3), Quantities and Descriptions(3), Product name(3), Batch No.(3), Quantity(3), Manufacturing date(3), Expiry date(3), Item(3), Methylene blue adsorption(3), Caramel adsorption(3)
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/OVC PLUS M/25ACI11539-COA 25122021.pdf ---
+   CERTIFICATE | OFANALYSIS
+   No.:26ACI1539
+   Date:Jan.22,2026
+   Quantities and Descriptions
+   Product name: | ACTIVATEDCARBON
+   OVCPLUSM
+   Batch No.: | 25122021
+   Quantity: | 18,000kgs
+   Manufacturing date: | Dec.20,2025
+   Expiry date: | Dec.19,2028
+   Item: | Standard | Results
+   Methylene blue adsorption:mg/g | 225min | 225
+   Caramel adsorption: | 110min | 110
+   Iodine value mg/g | 1000min | 1181
+   PH value:units pH | 3-5 | 3.7
+   Ash content:% | 5.0max | 3.4
+   Moisture content:% | 10max | 8.2
+   Fe:% | 0.05max | 0.02
+   C1:% | 0.2max | 0.02
+   As:ppm | 3max. | Conform
+   Heavy metals (as Pb):ppm | 5max. | 1.2
+   Paritcle size200mesh:% | 95max | 77.4
+   Conclusion: | Complywith standard.
+   Containernumber:EGHU9666074
+   ASPIRE CHEMICALSCO.,LTD.
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/OVC PLUS M/CERTIFICADO OVC PLUS M LOTE 25060521.pdf ---
+   CERTIFICATE | OFANALYSIS
+   No.:25ACI1489
+   Date:Jun.20,2025
+   Quantities and Descriptions
+   Product name: | ACTIVATEDCARBON
+   OVCPLUSM
+   Batch No.: | 25060521
+   Quantity: | 18,000kgs
+   Manufacturing date: | Feb.3,2025
+   Expiry date: | Feb.2,2028
+   Item: | Standard | Results
+   Methylene blue adsorption:mg/g | 225min | 232.5
+   Caramel adsorption: | 110min | 110
+   Iodine value mg/g | 1000min | 1237
+   PH value:units pH | 3-5 | 4.3
+   Ash content:% | 5.0max | 3.9
+   Moisture content:% | 10max | 8.4
+   Fe:% | 0.05max | 0.02
+   C1:% | 0.2max | 0.03
+   As:ppm | 3max. | Conform
+   Heavy metals (as Pb): ppm | 5max. | 1.8
+   Paritcle size 200 mesh:% | 95max | 77.4
+   Conclusion: | Comply with standard.
+   ASPIRE CHEMICALSCO.,LTD.
+   For and on behalf of
+
+📂 SUBCARPETA: VINEXPERT DESO (4 archivos)
+   Etiquetas más frecuentes: No.(4), Date(4), Quantities and Descriptions(4), VINEXPERTDESO(4), Batch No.(4), Quantity(4), Manufacturing date(4), Expiry date(4), Item(4), Molasses(4), Ash content(4), Moisture content(4)
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/VINEXPERT DESO/CERTIFICADO VINEXPERT DESO LOTE 260201503.pdf ---
+   CERTIFICATE OF ANALYSIS
+   No.:26ACI1538
+   Date:Mar.10,2026
+   Quantities and Descriptions
+   Product name: | ACTIVATEDCARBON
+   VINEXPERTDESO
+   Batch No.: | 260201503
+   Quantity: | 6,740kg
+   Manufacturing date: | Feb.1,2026
+   Expiry date: | Jan.31,2029
+   Item: | Standard | Results
+   Molasses: | 6.91
+   PHvalue: | 6-8 | 7.4
+   Ash content:% | 5max | 1.2
+   Moisture content:% | 8max | 7.4
+   C1:% | 0.2max. | 0.11
+   Apparent density:g/ml | 0.45-0.6 | 0.54
+   Acid soluble:% | 1.5max | 0.9
+   Cu:% | 0.01 max. | 0.0006
+   Fe:% | 0.05max. | 0.021
+   Ca:% | 0.05max. | 0.042
+   Particle size D10:μm | 3min. | 8.3
+   Particle size D50:μm | 30min. | 35.4
+   Particle size D90:μm | 150min. | 151.1
+   Paritcle size<10pm:% | 13.4
+
+   --- Muestra: Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD/VINEXPERT DESO/CERTIFICADO VINEXPERT DESO LOTE 260202503.pdf ---
+   CERTIFICATE OF ANALYSIS
+   No.:26ACI1538
+   Date:Mar.10,2026
+   Quantities and Descriptions
+   Product name: | ACTIVATEDCARBON
+   VINEXPERTDESO
+   Batch No.: | 260202503
+   Quantity: | 4,480kg
+   Manufacturing date: | Feb.2,2026
+   Expiry date: | Feb.1,2029
+   Item: | Standard | Results
+   Molasses: | 5.41
+   PHvalue: | 6-8 | 7.7
+   Ash content:% | 5max | 1.4
+   Moisture content:% | 8max | 7.0
+   C1:% | 0.2max. | 0.09
+   Apparent density:g/ml | 0.45-0.6 | 0.52
+   Acid soluble:% | 1.5max | 1.0
+   Cu:% | 0.01max. | 0.0008
+   Fe:% | 0.05max. | 0.021
+   Ca:% | 0.05max. | 0.037
+   Particle sizeD10:μm | 3min. | 8.0
+   Particle size D50:μm | 30min. | 35.1
+   Particle sizeD90:μm | 150min. | 156.0
+   Paritcle size<10um:% | 14.0
