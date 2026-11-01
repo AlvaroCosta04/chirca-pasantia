@@ -3,3 +3,6 @@ __pycache__/
 *.pdf
 .venv/
 
+*.png
+_graficos_temp/
+
