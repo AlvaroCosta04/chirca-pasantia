@@ -1,12 +1,12 @@
 from pathlib import Path
 
-# PASO 1: Reemplazá esto por la ruta donde OneDrive sincronizó la carpeta de la empresa.
-# Ejemplo en Windows: Path("C:/Users/Sofia/Chirca OVC S.A/Gamas - Documentos")
-RUTA_BASE = Path("C:/Users/TuCompanera/Ruta_A_La_Carpeta_Sincronizada")
+# Ruta exacta de la carpeta sincronizada en la PC de Pasantías (Windows)
+RUTA_BASE = Path("C:/Users/Pasantias/OVC SA/GAMAS - GAMAS")
 
 def mapear_estructura(directorio_raiz):
     if not directorio_raiz.exists():
-        print(f"Error: La ruta {directorio_raiz} no existe.")
+        print(f"Error: La ruta '{directorio_raiz}' no existe.")
+        print("Revisá si OneDrive ya está abierto y la carpeta sincronizada correctamente.")
         return
 
     print(f"Mapa de carpetas para: {directorio_raiz.name}\n" + "="*50)
