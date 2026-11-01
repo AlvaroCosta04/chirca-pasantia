@@ -6,10 +6,10 @@ from pathlib import Path
 import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent
-CSV_MASTER_DIR = BASE_DIR / "01_Bases_de_Datos_CSV"
+ROOT_DIR = BASE_DIR.parent if BASE_DIR.name == "03_Sistema_y_Scripts" else BASE_DIR
+CSV_MASTER_DIR = ROOT_DIR / "01_Bases_de_Datos_CSV"
 CSV_MASTER_DIR.mkdir(exist_ok=True)
 
-# 1. Cargar los CSVs completos (Texto + OCR) de las 4 categorías
 categorias = [
     ("FILTRACIÓN", "Filtracion", BASE_DIR / "Salida_CSV_Filtracion"),
     ("ARCILLAS", "Arcillas", BASE_DIR / "Salida_CSV_Arcillas"),
@@ -25,7 +25,6 @@ for nombre_cat, prefijo, carpeta_origen in categorias:
         print(f"⚠️ No se encontró {archivo_todos}")
         continue
 
-    # Copiar los CSVs de cada categoría a su subcarpeta limpia dentro de 01_Bases_de_Datos_CSV/
     sub_destino = CSV_MASTER_DIR / f"Por_Categoria_{prefijo}"
     sub_destino.mkdir(exist_ok=True)
     for f_csv in sorted(carpeta_origen.glob("*")):
@@ -35,7 +34,6 @@ for nombre_cat, prefijo, carpeta_origen in categorias:
     df_cat = pd.read_csv(archivo_todos, sep=";", encoding="utf-8-sig", dtype=str)
     df_cat.insert(0, "Categoria_General", nombre_cat)
 
-    # Unificar el nombre de la columna de fecha para la tabla global
     if "Fecha_Emision" not in df_cat.columns:
         if "Fecha_Documento" in df_cat.columns:
             df_cat["Fecha_Emision"] = df_cat["Fecha_Documento"]
@@ -49,10 +47,8 @@ for nombre_cat, prefijo, carpeta_origen in categorias:
 
     dfs_globales.append(df_cat)
 
-# 2. Unir absolutamente TODOS los productos de las 4 categorías en un único DataFrame Maestro
 df_global = pd.concat(dfs_globales, ignore_index=True)
 
-# Ordenar las columnas poniendo primero las columnas transversales clave
 cols_primarias = [
     "Categoria_General",
     "Rango_Temporal",
@@ -67,7 +63,6 @@ cols_restantes = [c for c in df_global.columns if c not in cols_primarias and c 
 orden_final_cols = [c for c in cols_primarias if c in df_global.columns] + cols_restantes + ["Ruta_Archivo"]
 df_global = df_global[orden_final_cols]
 
-# Guardar los CSVs Globales Unificados (Todos, <=2024, 2025, 2026)
 df_global.to_csv(CSV_MASTER_DIR / "GLOBAL_0_TODOS_LOS_CERTIFICADOS.csv", sep=";", index=False, encoding="utf-8-sig")
 
 anios_num = pd.to_numeric(df_global["Anio"], errors="coerce").fillna(2020).astype(int)
@@ -75,11 +70,9 @@ df_global[anios_num <= 2024].to_csv(CSV_MASTER_DIR / "GLOBAL_1_Hasta_2024.csv", 
 df_global[anios_num == 2025].to_csv(CSV_MASTER_DIR / "GLOBAL_2_Anio_2025.csv", sep=";", index=False, encoding="utf-8-sig")
 df_global[anios_num >= 2026].to_csv(CSV_MASTER_DIR / "GLOBAL_3_Anio_2026.csv", sep=";", index=False, encoding="utf-8-sig")
 
-# Guardar también una versión filtrada SOLO con Lotes Únicos (sin duplicados)
 df_unicos = df_global[df_global["Version_Preferida_Unica"] == "SI"]
 df_unicos.to_csv(CSV_MASTER_DIR / "GLOBAL_LOTES_UNICOS_SIN_DUPLICADOS.csv", sep=";", index=False, encoding="utf-8-sig")
 
-# 3. Limpiar subcarpetas de informes Word con menos de 5 lotes
 for carpeta_inf in [
     BASE_DIR / "Informes_Tendencia_Arcillas",
     BASE_DIR / "Informes_Tendencia_Biotecnologia",
@@ -100,14 +93,5 @@ for carpeta_inf in [
                 pass
 
 print("=" * 75)
-print("✅ ¡BASE DE DATOS MAESTRA GLOBAL GENERADA EN 01_Bases_de_Datos_CSV/!")
-print("=" * 75)
-print(f"  📄 GLOBAL_0_TODOS_LOS_CERTIFICADOS.csv    -> {len(df_global):4d} certificados totales")
-print(f"  📄 GLOBAL_LOTES_UNICOS_SIN_DUPLICADOS.csv -> {len(df_unicos):4d} lotes únicos reales")
-print(f"  📄 GLOBAL_1_Hasta_2024.csv                -> {(anios_num <= 2024).sum():4d} certificados")
-print(f"  📄 GLOBAL_2_Anio_2025.csv                 -> {(anios_num == 2025).sum():4d} certificados")
-print(f"  📄 GLOBAL_3_Anio_2026.csv                 -> {(anios_num >= 2026).sum():4d} certificados")
-print("-" * 75)
-print("Desglose por Categoría dentro del CSV Global:")
-print(df_global.groupby("Categoria_General")["Lote"].count().to_string())
+print(f"✅ ¡BASE DE DATOS MAESTRA GLOBAL GENERADA EN {CSV_MASTER_DIR}!")
 print("=" * 75)

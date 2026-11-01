@@ -14,31 +14,185 @@ from docx.text.paragraph import Paragraph
 import openpyxl
 
 BASE_DIR = Path(__file__).resolve().parent
-CERT_DIR = BASE_DIR.parent / "Certificados"
+LOCAL_CERT_DIR = BASE_DIR.parent / "Certificados"
+
+# Rutas posibles de SharePoint sincronizado en Windows
+CANDIDATOS_SHAREPOINT = [
+    Path("C:/Users/Pasantias/OVC SA/GAMAS - GAMAS"),
+    Path.home() / "OVC SA" / "GAMAS - GAMAS",
+    Path.home() / "Chirca OVC S.A" / "GAMAS - GAMAS",
+]
+
+# Mapeo exacto: (Categoría, Prefijo Virtual compatible con los parsers, Ruta en GAMAS - GAMAS)
+MAPA_SHAREPOINT = [
+    (
+        "Arcillas",
+        Path("Arcillas/PUREMIN/CERTIFICADO DE CALIDAD"),
+        Path("5. ARCILLAS/PUREMIN/CERTIFICADO DE CALIDAD"),
+    ),
+    (
+        "Arcillas",
+        Path("Arcillas/SEPIOL S.A/CERTIFICADOS DE CALIDAD"),
+        Path("5. ARCILLAS/SEPIOL S.A/CERTIFICADOS DE CALIDAD"),
+    ),
+    (
+        "Biotecnología",
+        Path("Biotecnología/FERMENTIS/CERTIFICADOS DE CALIDAD Y DE EXTENSIÓN"),
+        Path("2. BIOTECNOLOGÍA/FERMENTIS/CERTIFICADOS DE CALIDAD Y DE EXTENSIÓN"),
+    ),
+    (
+        "Biotecnología",
+        Path("Biotecnología/VINEXPERT/CERTIFICADO DE CALIDAD"),
+        Path("2. BIOTECNOLOGÍA/VINEXPERT/CERTIFICADO DE CALIDAD"),
+    ),
+    (
+        "Carbon",
+        Path("Carbon/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD"),
+        Path("4. CARBÓN ACTIVADO/ASPIRE CHEMICAL-OVC Y VINEXPERT CARBONES/CERTIFICADOS DE CALIDAD"),
+    ),
+    (
+        "Carbon",
+        Path("Carbon/NORIT/CERTIFICADOS DE CALIDAD"),
+        Path("4. CARBÓN ACTIVADO/NORIT/CERTIFICADOS DE CALIDAD"),
+    ),
+    (
+        "FILTRACIÓN",
+        Path("FILTRACIÓN"),
+        Path("3. FILTRACIÓN/PRECOAT/CERTIFICADOS DE CALIDAD"),
+    ),
+]
+
+CARPETAS_EXCLUIDAS = (
+    "TENDENCIA",
+    "TENDENDIA",
+    "EDITABLE",
+    "NO USAR",
+    "VENCIDO",
+    "OBSOLETO",
+    "COAS DE BOBINAS",
+    "CERTIFICADOS DE EXTENSION",
+)
 
 
-def generar_arbol(directorio: Path) -> str:
-    """Genera el árbol visual de directorios y archivos dentro de Certificados/."""
-    lineas = [f"{directorio.name}/"]
-    for root, dirs, files in os.walk(directorio):
-        dirs.sort()
-        files.sort()
-        rel_path = Path(root).relative_to(directorio)
-        nivel = 0 if str(rel_path) == "." else len(rel_path.parts)
-        indent = "│   " * nivel
-        if str(rel_path) != ".":
-            lineas.append(f"{'│   ' * (nivel - 1)}├── 📁 {Path(root).name}/ ({len(files)} archivos)")
-        for i, f in enumerate(files):
-            conector = "└──" if i == len(files) - 1 and not dirs else "├──"
-            lineas.append(f"{indent}{conector} 📄 {f}")
-    return "\n".join(lineas)
+def detectar_origen_datos():
+    """Detecta si estamos en SharePoint (Windows) o en carpeta local Certificados (Linux)."""
+    for sp_dir in CANDIDATOS_SHAREPOINT:
+        if sp_dir.exists():
+            return "SHAREPOINT", sp_dir
+    if LOCAL_CERT_DIR.exists():
+        return "LOCAL", LOCAL_CERT_DIR
+    return None, None
+
+
+def recolectar_archivos_objetivo(modo: str, raiz_dir: Path):
+    """
+    Devuelve una lista de tuplas: (fpath_real, rel_str_virtual, categoria)
+    usando siempre barras '/' para mantener compatibilidad total entre Windows y Linux.
+    """
+    archivos = []
+
+    if modo == "LOCAL":
+        for root, dirs, files in os.walk(raiz_dir):
+            dirs[:] = sorted([
+                d for d in dirs
+                if not any(ex in d.upper() for ex in CARPETAS_EXCLUIDAS)
+            ])
+            files.sort()
+            for f in files:
+                if f.startswith("~$") or f in (".DS_Store", "Thumbs.db"):
+                    continue
+                fpath = Path(root) / f
+                rel_path = fpath.relative_to(raiz_dir)
+                rel_str = rel_path.as_posix()
+                categoria = rel_path.parts[0] if len(rel_path.parts) > 1 else "Raiz"
+                archivos.append((fpath, rel_str, categoria))
+    else:
+        for categoria, prefijo_virtual, sub_sp in MAPA_SHAREPOINT:
+            dir_objetivo = raiz_dir / sub_sp
+            if not dir_objetivo.exists():
+                print(f"⚠️ Subcarpeta no encontrada en SharePoint: {dir_objetivo}")
+                continue
+            for root, dirs, files in os.walk(dir_objetivo):
+                dirs[:] = sorted([
+                    d for d in dirs
+                    if not any(ex in d.upper() for ex in CARPETAS_EXCLUIDAS)
+                ])
+                files.sort()
+                for f in files:
+                    if f.startswith("~$") or f in (".DS_Store", "Thumbs.db"):
+                        continue
+                    fpath = Path(root) / f
+                    rel_interno = fpath.relative_to(dir_objetivo)
+                    rel_virtual = prefijo_virtual / rel_interno
+                    archivos.append((fpath, rel_virtual.as_posix(), categoria))
+
+    return archivos
+
+
+def cargar_cache_radiografias_previas():
+    """
+    Carga los bloques ya extraídos en radiografia_*.txt y pendientes_imagen.txt
+    para NO volver a abrir ni descargar de OneDrive los ~2.000 PDFs históricos.
+    """
+    bloques_por_cat = defaultdict(list)
+    conocidos_rel = set()
+    conocidos_cat_nombre = set()
+    conteo_estados = Counter()
+    pendientes_previos = []
+
+    mapa_cat_archivos = [
+        ("Arcillas", "radiografia_Arcillas.txt"),
+        ("Biotecnología", "radiografia_Biotecnolog_a.txt"),
+        ("Carbon", "radiografia_Carbon.txt"),
+        ("FILTRACIÓN", "radiografia_FILTRACI_N.txt"),
+    ]
+
+    for cat, nom_txt in mapa_cat_archivos:
+        p = BASE_DIR / nom_txt
+        if not p.exists():
+            p = BASE_DIR / "datos_radiografia" / nom_txt
+        if not p.exists():
+            continue
+
+        txt = p.read_text(encoding="utf-8", errors="replace")
+        partes = txt.split("=" * 80 + "\nARCHIVO: ")[1:]
+        for b in partes:
+            lineas = b.splitlines()
+            if not lineas:
+                continue
+            rel_str = lineas[0].strip().replace("\\", "/")
+            meta = lineas[1].strip() if len(lineas) > 1 else ""
+            m_est = re.search(r"ESTADO:\s*([^|\n]+)", meta)
+            estado = m_est.group(1).strip() if m_est else "TEXTO_NATIVO"
+
+            bloque_completo = "=" * 80 + "\nARCHIVO: " + b
+            if not bloque_completo.endswith("\n\n"):
+                bloque_completo = bloque_completo.rstrip() + "\n\n"
+
+            bloques_por_cat[cat].append(bloque_completo)
+            conocidos_rel.add(rel_str)
+            conocidos_cat_nombre.add((cat, Path(rel_str).name.lower()))
+            conteo_estados[estado] += 1
+
+    p_pend = BASE_DIR / "pendientes_imagen.txt"
+    if p_pend.exists():
+        for lin in p_pend.read_text(encoding="utf-8", errors="replace").splitlines():
+            if "|" not in lin or lin.startswith("TOTAL") or lin.startswith("="):
+                continue
+            partes_p = [x.strip() for x in lin.split("|")]
+            est_p = partes_p[0]
+            rel_p = partes_p[-1].replace("\\", "/")
+            cat_p = rel_p.split("/")[0] if "/" in rel_p else "Raiz"
+            pendientes_previos.append(lin)
+            if rel_p not in conocidos_rel:
+                conocidos_rel.add(rel_p)
+                conocidos_cat_nombre.add((cat_p, Path(rel_p).name.lower()))
+                conteo_estados[est_p] += 1
+
+    return bloques_por_cat, conocidos_rel, conocidos_cat_nombre, conteo_estados, pendientes_previos
 
 
 def extraer_pagina_pdf_estructurada(page) -> str:
-    """
-    Extrae el texto de una página PDF agrupando elementos por coordenada Y (renglón visual)
-    y separando columnas/campos horizontales con ' | ' a velocidad C.
-    """
     try:
         data = page.get_text("dict")
     except Exception:
@@ -46,13 +200,12 @@ def extraer_pagina_pdf_estructurada(page) -> str:
 
     items = []
     for block in data.get("blocks", []):
-        if block.get("type") != 0:  # Solo bloques de texto
+        if block.get("type") != 0:
             continue
         for line in block.get("lines", []):
             spans = line.get("spans", [])
             if not spans:
                 continue
-            # Unir spans muy pegados dentro de la misma línea y separar si hay salto horizontal grande
             curr_x0, curr_y0, curr_x1, curr_y1 = spans[0]["bbox"]
             curr_text = spans[0]["text"]
             for sp in spans[1:]:
@@ -76,10 +229,8 @@ def extraer_pagina_pdf_estructurada(page) -> str:
     if not items:
         return ""
 
-    # Ordenar por posición vertical (Y) y luego horizontal (X)
     items.sort(key=lambda x: (round(x[1], 1), x[0]))
 
-    # Agrupar en renglones visuales (tolerancia de 3.5 puntos en Y)
     filas = []
     fila_actual = [items[0]]
     y_ref = items[0][1]
@@ -113,7 +264,6 @@ def extraer_pagina_pdf_estructurada(page) -> str:
 
 
 def procesar_pdf(filepath: Path):
-    """Devuelve (estado, num_paginas, paginas_texto, paginas_imagen, contenido_texto)."""
     try:
         doc = fitz.open(filepath)
     except Exception as e:
@@ -150,14 +300,12 @@ def procesar_pdf(filepath: Path):
 
 
 def procesar_docx(filepath: Path):
-    """Extrae párrafos y tablas de archivos .docx en orden."""
     try:
         doc = docx.Document(filepath)
     except Exception as e:
         return ("ERROR_DOCX", f"[ERROR AL ABRIR DOCX: {e}]")
 
     lineas = []
-    # Intentar mantener el orden exacto de párrafos y tablas
     for child in doc.element.body.iterchildren():
         if child.tag.endswith("p"):
             p = Paragraph(child, doc)
@@ -169,7 +317,6 @@ def procesar_docx(filepath: Path):
             lineas.append("[INICIO TABLA DOCX]")
             for row in t.rows:
                 celdas = [re.sub(r"\s+", " ", c.text.strip()) for c in row.cells]
-                # Evitar celdas combinadas repetidas consecutivas idénticas si toda la fila es igual
                 if any(celdas):
                     lineas.append(" | ".join(celdas))
             lineas.append("[FIN TABLA DOCX]")
@@ -181,7 +328,6 @@ def procesar_docx(filepath: Path):
 
 
 def procesar_xlsx(filepath: Path):
-    """Extrae el contenido de hojas Excel .xlsx."""
     try:
         wb = openpyxl.load_workbook(filepath, data_only=True, read_only=True)
     except Exception as e:
@@ -205,20 +351,17 @@ def procesar_xlsx(filepath: Path):
 
 
 def procesar_doc_antiguo(filepath: Path):
-    """Intenta extraer texto legible de archivos .doc (Word 97-2003) sin dependencias externas."""
     try:
         raw = filepath.read_bytes()
     except Exception as e:
         return ("ERROR_DOC", f"[ERROR AL LEER DOC: {e}]")
 
-    # Extraer secuencias ASCII/Latin1 y UTF-16LE legibles
     chunks_utf16 = [m.group(0).decode("utf-16le", errors="ignore")
                     for m in re.finditer(rb"(?:[\x20-\x7e\xa0-\xff]\x00){6,}", raw)]
     chunks_latin = [m.group(0).decode("latin-1", errors="ignore")
                     for m in re.finditer(rb"[\x20-\x7e\xa0-\xff]{8,}", raw)]
 
     texto_combinado = "\n".join(chunks_utf16 if len(chunks_utf16) > 5 else chunks_latin)
-    # Limpiar basura de metadatos comunes de OLE2
     lineas_limpias = []
     for l in texto_combinado.splitlines():
         l_strip = l.strip()
@@ -235,7 +378,6 @@ def procesar_doc_antiguo(filepath: Path):
 
 
 def es_pdf_encubierto(filepath: Path) -> bool:
-    """Detecta si un archivo con extensión rara empieza con %PDF-."""
     try:
         with open(filepath, "rb") as f:
             return f.read(5) == b"%PDF-"
@@ -244,49 +386,48 @@ def es_pdf_encubierto(filepath: Path) -> bool:
 
 
 def main():
-    if not CERT_DIR.exists():
-        print(f"❌ No se encontró el directorio: {CERT_DIR}")
+    modo, raiz_dir = detectar_origen_datos()
+    if modo is None:
+        print("❌ No se encontró ni la carpeta de SharePoint sincronizada ni la carpeta local 'Certificados'.")
         sys.exit(1)
 
-    print(f"🔍 Escaneando árbol de directorios en: {CERT_DIR} ...")
-    arbol_str = generar_arbol(CERT_DIR)
+    print(f"🔍 Modo detectado: {modo} -> Escaneando {raiz_dir} ...")
 
-    # Recolectar todos los archivos
-    todos_archivos = []
-    for root, dirs, files in os.walk(CERT_DIR):
-        dirs.sort()
-        files.sort()
-        for f in files:
-            todos_archivos.append(Path(root) / f)
+    (
+        textos_por_categoria,
+        conocidos_rel,
+        conocidos_cat_nombre,
+        conteo_estados,
+        pendientes_imagen,
+    ) = cargar_cache_radiografias_previas()
 
+    todos_archivos = recolectar_archivos_objetivo(modo, raiz_dir)
     total = len(todos_archivos)
-    print(f"📦 Total de archivos encontrados: {total}\n")
+    print(f"📦 Archivos en carpetas objetivo: {total} (En caché histórico: {len(conocidos_rel)})")
 
-    conteo_estados = Counter()
-    pendientes_imagen = []
+    nuevos_procesados = 0
     archivos_especiales = []
-    textos_por_categoria = defaultdict(list)
 
-    for idx, fpath in enumerate(todos_archivos, start=1):
-        if idx % 100 == 0 or idx == total:
-            print(f"⏳ Procesando [{idx}/{total}] archivos...")
+    for idx, (fpath, rel_str, categoria) in enumerate(todos_archivos, start=1):
+        # Si ya está en la radiografía previa, NO lo abrimos (evita que OneDrive descargue el PDF)
+        if rel_str in conocidos_rel or (categoria, fpath.name.lower()) in conocidos_cat_nombre:
+            continue
 
-        rel_path = fpath.relative_to(CERT_DIR)
-        categoria = rel_path.parts[0] if len(rel_path.parts) > 1 else "Raiz"
+        nuevos_procesados += 1
+        print(f"🆕 Procesando archivo nuevo [{nuevos_procesados}]: {rel_str}")
         ext = fpath.suffix.lower()
 
-        # Verificar si es PDF (por extensión o por cabecera mágica %PDF-)
-        if ext == ".pdf" or es_pdf_encubierto(fpath):
+        if ext == ".pdf" or (ext not in (".docx", ".doc", ".xlsx", ".txt", ".csv", ".jpg", ".jpeg", ".png") and es_pdf_encubierto(fpath)):
             estado, n_pag, p_txt, p_img, contenido = procesar_pdf(fpath)
             conteo_estados[estado] += 1
 
             if estado in ("IMAGEN_ESCANEADO", "MIXTO_TEXTO_E_IMAGEN"):
-                pendientes_imagen.append(f"{estado} | Págs(Txt:{p_txt}/Img:{p_img}) | {rel_path}")
+                pendientes_imagen.append(f"{estado} | Págs(Txt:{p_txt}/Img:{p_img}) | {rel_str}")
 
             if estado in ("TEXTO_NATIVO", "MIXTO_TEXTO_E_IMAGEN"):
                 bloque = (
                     f"{'='*80}\n"
-                    f"ARCHIVO: {rel_path}\n"
+                    f"ARCHIVO: {rel_str}\n"
                     f"TIPO: PDF | ESTADO: {estado} | PAGINAS: {n_pag} (Texto: {p_txt}, Imagen: {p_img})\n"
                     f"{'='*80}\n"
                     f"{contenido}\n\n"
@@ -297,11 +438,11 @@ def main():
             estado, contenido = procesar_docx(fpath)
             conteo_estados[estado] += 1
             if estado == "DOCX_IMAGEN_O_VACIO":
-                pendientes_imagen.append(f"{estado} | {rel_path}")
+                pendientes_imagen.append(f"{estado} | {rel_str}")
             else:
                 bloque = (
                     f"{'='*80}\n"
-                    f"ARCHIVO: {rel_path}\n"
+                    f"ARCHIVO: {rel_str}\n"
                     f"TIPO: DOCX | ESTADO: {estado}\n"
                     f"{'='*80}\n"
                     f"{contenido}\n\n"
@@ -312,11 +453,11 @@ def main():
             estado, contenido = procesar_doc_antiguo(fpath)
             conteo_estados[estado] += 1
             if estado == "DOC_ANTIGUO_SIN_TEXTO":
-                pendientes_imagen.append(f"{estado} | {rel_path}")
+                pendientes_imagen.append(f"{estado} | {rel_str}")
             else:
                 bloque = (
                     f"{'='*80}\n"
-                    f"ARCHIVO: {rel_path}\n"
+                    f"ARCHIVO: {rel_str}\n"
                     f"TIPO: DOC_97_2003 | ESTADO: {estado}\n"
                     f"{'='*80}\n"
                     f"{contenido}\n\n"
@@ -328,7 +469,7 @@ def main():
             conteo_estados[estado] += 1
             bloque = (
                 f"{'='*80}\n"
-                f"ARCHIVO: {rel_path}\n"
+                f"ARCHIVO: {rel_str}\n"
                 f"TIPO: XLSX | ESTADO: {estado}\n"
                 f"{'='*80}\n"
                 f"{contenido}\n\n"
@@ -343,7 +484,7 @@ def main():
                 contenido = f"[ERROR LECTURA TXT: {e}]"
             bloque = (
                 f"{'='*80}\n"
-                f"ARCHIVO: {rel_path}\n"
+                f"ARCHIVO: {rel_str}\n"
                 f"TIPO: {ext.upper()} | ESTADO: TEXTO\n"
                 f"{'='*80}\n"
                 f"{contenido}\n\n"
@@ -352,12 +493,14 @@ def main():
 
         else:
             conteo_estados[f"OTRO_{ext or 'SIN_EXT'}"] += 1
-            size_kb = fpath.stat().st_size / 1024.0
-            archivos_especiales.append(f"{ext or 'SIN_EXT'} ({size_kb:.1f} KB) | {rel_path}")
             if ext in (".jpg", ".jpeg", ".png", ".tif", ".tiff", ".bmp"):
-                pendientes_imagen.append(f"IMAGEN_SUELTA ({ext}) | {rel_path}")
+                pendientes_imagen.append(f"IMAGEN_SUELTA ({ext}) | {rel_str}")
 
-    # 1. Guardar lista de pendientes de imagen (OCR)
+    if nuevos_procesados == 0:
+        print("⚡ No hay certificados nuevos sin procesar (0 descargas de OneDrive requeridas).")
+    else:
+        print(f"✅ Se extrajeron {nuevos_procesados} certificados nuevos.")
+
     ruta_pendientes = BASE_DIR / "pendientes_imagen.txt"
     with open(ruta_pendientes, "w", encoding="utf-8") as f:
         f.write(f"TOTAL ARCHIVOS CON IMAGEN / ESCANEADOS: {len(pendientes_imagen)}\n")
@@ -365,38 +508,8 @@ def main():
         for linea in pendientes_imagen:
             f.write(linea + "\n")
 
-    # 2. Construir cabecera de resumen
-    resumen_lines = [
-        "=" * 80,
-        "RESUMEN GENERAL DE RADIOGRAFÍA - CHIRCA / CERTIFICADOS",
-        "=" * 80,
-        f"Total de archivos escaneados: {total}",
-        "",
-        "DESGLOSE POR ESTADO:",
-    ]
-    for est, cant in conteo_estados.most_common():
-        resumen_lines.append(f"  - {est}: {cant}")
-
-    resumen_lines.append("\nARCHIVOS ESPECIALES / EXTENSIONES NO ESTÁNDAR:")
-    for esp in archivos_especiales:
-        resumen_lines.append(f"  * {esp}")
-
-    resumen_lines.append("\n" + "=" * 80)
-    resumen_lines.append("ÁRBOL COMPLETO DE DIRECTORIOS Y ARCHIVOS")
-    resumen_lines.append("=" * 80)
-    resumen_lines.append(arbol_str)
-    resumen_lines.append("\n")
-
-    cabecera_resumen = "\n".join(resumen_lines)
-
-    # Guardar 00_RESUMEN_Y_ARBOL.txt
-    ruta_resumen = BASE_DIR / "00_RESUMEN_Y_ARBOL.txt"
-    ruta_resumen.write_text(cabecera_resumen, encoding="utf-8")
-
-    # 3. Guardar archivos por categoría y el archivo completo
     ruta_completa = BASE_DIR / "radiografia_COMPLETA.txt"
     with open(ruta_completa, "w", encoding="utf-8") as f_comp:
-        f_comp.write(cabecera_resumen)
         for cat, bloques in sorted(textos_por_categoria.items()):
             nombre_limpio = re.sub(r"[^a-zA-Z0-9_]", "_", cat)
             ruta_cat = BASE_DIR / f"radiografia_{nombre_limpio}.txt"
@@ -408,17 +521,6 @@ def main():
             )
             ruta_cat.write_text(contenido_cat, encoding="utf-8")
             f_comp.write(contenido_cat)
-
-    print("\n✅ ¡PROCESO TERMINADO CON ÉXITO!")
-    print("-" * 60)
-    for est, cant in conteo_estados.most_common():
-        print(f"  {est:28s}: {cant}")
-    print("-" * 60)
-    print("📂 Archivos generados en ~/Documents/Chirca/:")
-    for p in sorted(BASE_DIR.glob("*.txt")):
-        mb = p.stat().st_size / (1024 * 1024)
-        tokens_est = int(p.stat().st_size / 3.8)
-        print(f"  - {p.name:32s} -> {mb:6.2f} MB (~{tokens_est:,} tokens est.)")
 
 
 if __name__ == "__main__":

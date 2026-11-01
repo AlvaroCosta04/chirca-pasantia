@@ -10,17 +10,30 @@ from collections import defaultdict
 import fitz  # PyMuPDF
 from rapidocr_onnxruntime import RapidOCR
 
+from generar_radiografia import detectar_origen_datos, MAPA_SHAREPOINT
+
 BASE_DIR = Path(__file__).resolve().parent
-CERT_DIR = BASE_DIR.parent / "Certificados"
 PENDIENTES_FILE = BASE_DIR / "pendientes_imagen.txt"
 CACHE_FILE = BASE_DIR / "cache_ocr_imagenes.json"
 
 
+def resolver_ruta_real(rel_str: str, modo: str, raiz_dir: Path) -> Path:
+    """Traduce la ruta relativa virtual a la ruta física real en Windows (SharePoint) o Linux (Local)."""
+    rel_path = Path(rel_str.replace("\\", "/"))
+    if modo == "LOCAL":
+        return raiz_dir / rel_path
+
+    rel_posix = rel_path.as_posix()
+    for _, prefijo_virtual, sub_sp in MAPA_SHAREPOINT:
+        pref_posix = prefijo_virtual.as_posix()
+        if rel_posix.startswith(pref_posix + "/"):
+            resto = rel_posix[len(pref_posix) + 1:]
+            return raiz_dir / sub_sp / Path(resto)
+
+    return raiz_dir / rel_path
+
+
 def reconstruir_tabla_desde_cajas_ocr(result_ocr) -> str:
-    """
-    Toma las cajas [box, texto, score] de RapidOCR y las agrupa por coordenada Y
-    (renglón visual), ordenando de izquierda a derecha con ' | '.
-    """
     if not result_ocr:
         return ""
 
@@ -29,7 +42,6 @@ def reconstruir_tabla_desde_cajas_ocr(result_ocr) -> str:
         txt_clean = str(txt).strip()
         if not txt_clean or score < 0.35:
             continue
-        # box = [[x0, y0], [x1, y0], [x1, y1], [x0, y1]]
         xs = [pt[0] for pt in box]
         ys = [pt[1] for pt in box]
         x0, x1 = min(xs), max(xs)
@@ -42,7 +54,6 @@ def reconstruir_tabla_desde_cajas_ocr(result_ocr) -> str:
 
     items.sort(key=lambda x: (x[1], x[0]))
 
-    # Tolerancia vertical dinámica (~mitad de la altura de letra, aprox 10 px a 150 DPI)
     filas = []
     fila_actual = [items[0]]
     y_ref = items[0][1]
@@ -84,7 +95,6 @@ def ocr_archivo(fpath: Path, engine: RapidOCR) -> str:
         res, _ = engine(str(fpath))
         return reconstruir_tabla_desde_cajas_ocr(res)
 
-    # Es un PDF (o .2 que empieza con %PDF)
     try:
         doc = fitz.open(fpath)
     except Exception as e:
@@ -94,13 +104,11 @@ def ocr_archivo(fpath: Path, engine: RapidOCR) -> str:
     bloques_pag = []
 
     for idx, page in enumerate(doc, start=1):
-        # Si alguna página ya tiene texto nativo, usar el texto nativo directo
         txt_nativo = page.get_text("text").strip()
         if len(re.sub(r"\s+", "", txt_nativo)) >= 25:
             bloques_pag.append(f"--- [Página {idx}/{num_pages} (TEXTO NATIVO)] ---\n{txt_nativo}")
             continue
 
-        # Renderizar página a 150 DPI en escala de grises (rápido y nítido para certificados)
         pix = page.get_pixmap(dpi=150, colorspace=fitz.csGRAY)
         img_bytes = pix.tobytes("png")
         res, _ = engine(img_bytes)
@@ -119,11 +127,13 @@ def main():
         print(f"❌ No se encontró {PENDIENTES_FILE}")
         return
 
-    # Cargar caché incremental si ya existe de una corrida previa
+    modo, raiz_dir = detectar_origen_datos()
+
     cache = {}
-    if CACHE_FILE.exists():
+    ruta_cache_lectura = CACHE_FILE if CACHE_FILE.exists() else (BASE_DIR / "datos_radiografia" / "cache_ocr_imagenes.json")
+    if ruta_cache_lectura.exists():
         try:
-            cache = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
+            cache = json.loads(ruta_cache_lectura.read_text(encoding="utf-8"))
         except Exception:
             cache = {}
 
@@ -135,9 +145,8 @@ def main():
             continue
         partes = [p.strip() for p in l.split("|")]
         estado = partes[0]
-        rel_path = partes[-1]
+        rel_path = partes[-1].replace("\\", "/")
 
-        # Ignorar el DOCX vacío de tendencias y el compilado repetido de 76 páginas
         if estado == "DOCX_IMAGEN_O_VACIO":
             continue
         if "reseumen coas 2025.pdf" in rel_path.lower():
@@ -148,7 +157,7 @@ def main():
         archivos_procesar.append(rel_path)
 
     total = len(archivos_procesar)
-    ya_en_cache = sum(1 for r in archivos_procesar if r in cache)
+    ya_en_cache = sum(1 for r in archivos_procesar if r in cache and len(cache[r].strip()) > 10)
     print("=" * 75)
     print(f"🔎 INICIANDO OCR INTELIGENTE SOBRE CERTIFICADOS ESCANEADOS")
     print(f"   Total de archivos objetivo : {total}")
@@ -156,38 +165,36 @@ def main():
     print(f"   Pendientes por escanear hoy: {total - ya_en_cache}")
     print("=" * 75)
 
-    engine = RapidOCR()
-    t_inicio = time.time()
-    procesados_hoy = 0
+    if total - ya_en_cache > 0 and raiz_dir is not None:
+        engine = RapidOCR()
+        t_inicio = time.time()
+        procesados_hoy = 0
 
-    for idx, rel_str in enumerate(archivos_procesar, start=1):
-        if rel_str in cache and len(cache[rel_str].strip()) > 10:
-            continue
+        for idx, rel_str in enumerate(archivos_procesar, start=1):
+            if rel_str in cache and len(cache[rel_str].strip()) > 10:
+                continue
 
-        fpath = CERT_DIR / rel_str
-        if not fpath.exists():
-            continue
+            fpath = resolver_ruta_real(rel_str, modo, raiz_dir)
+            if not fpath.exists():
+                continue
 
-        t0 = time.time()
-        texto_extraido = ocr_archivo(fpath, engine)
-        dt = time.time() - t0
-        procesados_hoy += 1
+            t0 = time.time()
+            texto_extraido = ocr_archivo(fpath, engine)
+            dt = time.time() - t0
+            procesados_hoy += 1
 
-        cache[rel_str] = texto_extraido
-        # Guardar caché en disco cada 5 archivos para no perder nada si se cancela
-        if procesados_hoy % 5 == 0 or idx == total:
-            CACHE_FILE.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
+            cache[rel_str] = texto_extraido
+            if procesados_hoy % 5 == 0 or idx == total:
+                CACHE_FILE.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
-        restantes = (total - ya_en_cache) - procesados_hoy
-        vel_media = (time.time() - t_inicio) / max(1, procesados_hoy)
-        eta_min = (restantes * vel_media) / 60.0
-        nombre_corto = Path(rel_str).name[:38]
-        print(f"⏳ [{idx:3d}/{total}] ({dt:4.1f}s | ETA: {eta_min:4.1f} min) -> {nombre_corto}")
+            restantes = (total - ya_en_cache) - procesados_hoy
+            vel_media = (time.time() - t_inicio) / max(1, procesados_hoy)
+            eta_min = (restantes * vel_media) / 60.0
+            nombre_corto = Path(rel_str).name[:38]
+            print(f"⏳ [{idx:3d}/{total}] ({dt:4.1f}s | ETA: {eta_min:4.1f} min) -> {nombre_corto}")
 
-    # Guardado final del caché
     CACHE_FILE.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # Exportar archivos radiografia_OCR_<Categoria>.txt con el mismo formato que los de texto
     por_categoria = defaultdict(list)
     for rel_str, texto_ocr in sorted(cache.items()):
         cat = rel_str.split("/")[0] if "/" in rel_str else "Otros"
@@ -200,7 +207,6 @@ def main():
         )
         por_categoria[cat].append(bloque)
 
-    print("\n📂 Generando archivos de radiografía OCR por categoría:")
     for cat, bloques in sorted(por_categoria.items()):
         nom_limpio = re.sub(r"[^a-zA-Z0-9_]", "_", cat)
         out_txt = BASE_DIR / f"radiografia_OCR_{nom_limpio}.txt"
@@ -211,9 +217,6 @@ def main():
             + "".join(bloques)
         )
         out_txt.write_text(contenido, encoding="utf-8")
-        print(f"   ✔ {out_txt.name:34s} ({len(bloques)} certificados recuperados)")
-
-    print("\n✅ ¡OCR COMPLETADO CON ÉXITO! Todos los textos quedaron guardados en caché.")
 
 
 if __name__ == "__main__":
