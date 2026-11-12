@@ -6,3 +6,7 @@ __pycache__/
 *.png
 _graficos_temp/
 
+build/
+dist/
+*.spec
+
